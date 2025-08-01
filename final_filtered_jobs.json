@@ -1,0 +1,6106 @@
+[
+  {
+    "job_title": "Data Engineer",
+    "company": "Jane Street",
+    "industry": "Finance",
+    "location": "NEW YORK, NEW YORK, UNITED STATES",
+    "posted_date": "2 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, SaaS Data Protection",
+    "company": "Rubrik",
+    "industry": "Cloud data management",
+    "location": "PALO ALTO, CA",
+    "posted_date": "2 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "UI Engineer (L5) - Data Experience",
+    "company": "Netflix",
+    "industry": "Media",
+    "location": "CA, CALIFORNIA, UNITED STATES OF AMERICA",
+    "posted_date": "2 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Architect",
+    "company": "Okta",
+    "industry": "Identity-management software",
+    "location": "SAN FRANCISCO, CA; CHICAGO, IL; WASHINGTON, D.C.; BELLEVUE, WA",
+    "posted_date": "2 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Jane Street",
+    "industry": "Finance",
+    "location": "New York, New York, United States",
+    "posted_date": "2 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Product Engineer, Generated Sessions",
+    "company": "Duolingo",
+    "industry": "EdTech",
+    "location": "New York, NY",
+    "posted_date": "2 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Product Engineer, Math",
+    "company": "Duolingo",
+    "industry": "Language-learning",
+    "location": "Pittsburgh, PA",
+    "posted_date": "2 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer II",
+    "company": "Chewy",
+    "industry": "Online pet store",
+    "location": "Bellevue, WA",
+    "posted_date": "2 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Jane Street",
+    "industry": "Finance",
+    "location": "NEW YORK, NEW YORK, UNITED STATES",
+    "posted_date": "2 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Risk Strategy Data Scientist",
+    "company": "Bill",
+    "industry": "Bill workflow automation for businesses",
+    "location": "DRAPER, UTAH, UNITED STATES; SAN JOSE, CALIFORNIA, UNITED STATES",
+    "posted_date": "2 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist (Large Pro Growth)",
+    "company": "Thumbtack",
+    "industry": "Technology",
+    "location": "REMOTE, UNITED STATES",
+    "posted_date": "2 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Jerry",
+    "industry": "Insurance",
+    "location": "ATLANTA, GEORGIA / MIAMI, FLORIDA / NEWRARK, NEW JERSEY / CHARLOTTE, NORTH CAROLINA / PHOENIX, ARIZONA / REMOTE",
+    "posted_date": "2 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist, Product Analytics",
+    "company": "Peloton",
+    "industry": "Fitness",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "2 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Car Insurance",
+    "industry": "Insurance",
+    "location": "San Francisco Bay Area, Chicago, Illinois, Boston, Massachusetts, New York, New York, Seattle, Washington, Houston, Texas, Greater Toronto Area, Ontario, Remote",
+    "posted_date": "2 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Jerry",
+    "industry": "Insurance",
+    "location": "Dallas, Texas / Nashville, Tennessee / Salt Lake City, Utah / Richmond, Virginia / Portland, Oregon / Los Angeles, California / San Jose, California / Remote",
+    "posted_date": "2 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "industry": "Finance",
+    "location": "New York, New York, United States",
+    "posted_date": "2 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "industry": "Finance",
+    "location": "New York, NY",
+    "posted_date": "2 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition",
+    "company": "Speechify",
+    "industry": "Text-to-speech",
+    "location": "REMOTE",
+    "posted_date": "3 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer II, Business Data Technologies",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "3 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Wikimedia",
+    "industry": "Information Technology",
+    "location": "Remote",
+    "posted_date": "3 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician , DCC Communities (AWS)",
+    "company": "Amazon",
+    "industry": "AWS",
+    "location": "US, VA, CHANTILLY",
+    "posted_date": "3 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Database Reliability Engineer",
+    "company": "Filevine",
+    "industry": "Filework flow management",
+    "location": "UNITED STATES (REMOTE)",
+    "posted_date": "3 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Database Reliability Engineer",
+    "company": "Viant",
+    "industry": "Programmatic advertising",
+    "location": "IRVINE, CA",
+    "posted_date": "3 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer, Proprietary Research",
+    "company": "Point72",
+    "industry": "Hedge fund",
+    "location": "NEW YORK, NY",
+    "posted_date": "3 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Threat Data Infrastructure Engineer",
+    "company": "Recorded Future",
+    "industry": "Cybersecurity threat intelligence",
+    "location": "BOSTON, MA",
+    "posted_date": "3 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Full-Stack - Enterprise Gen AI",
+    "company": "Scale",
+    "industry": "AI training data annotation",
+    "location": "San Francisco, CA; New York, NY",
+    "posted_date": "3 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, AI SDK",
+    "company": "Verceil",
+    "industry": "Technology",
+    "location": "Hybrid - San Francisco, New York City, US",
+    "posted_date": "3 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Technical Sales Engineer - Storage Hybrid Cloud & AI",
+    "company": "IBM",
+    "industry": "Tech services, software, and systems",
+    "location": "Research Triangle Park, New York, North Carolina, United States",
+    "posted_date": "3 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer - Prediction and Behavior ML",
+    "company": "Applied Intuition",
+    "industry": "Autonomous vehicles",
+    "location": "Mountain View, California, United States",
+    "posted_date": "3 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist \u2013 NLP & Real World Evidence (RWE)",
+    "company": "Allscripts",
+    "industry": "Healthcare IT",
+    "location": "PHILADELPHIA, PENNSYLVANIA, UNITED STATES",
+    "posted_date": "3 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Revenue FP&A - Data Scientist",
+    "company": "Dropbox",
+    "industry": "File storage",
+    "location": "REMOTE - US: SELECT LOCATIONS",
+    "posted_date": "3 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist - Supply Chain Experience Required - (B3)",
+    "company": "Applied Materials",
+    "industry": "Semiconductor manufacturing equipment",
+    "location": "SANTA CLARA,CA",
+    "posted_date": "3 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist \u2013 NLP & Real World Evidence (RWE)",
+    "company": "Allscripts",
+    "industry": "Healthcare IT",
+    "location": "Raleigh, North Carolina, United States",
+    "posted_date": "3 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist - Embodied Language",
+    "company": "Wayve",
+    "industry": "Technology",
+    "location": "Self-driving technology",
+    "posted_date": "3 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist - NLP & Real World Evidence (RWE) - Remote",
+    "company": "Allscripts",
+    "industry": "Healthcare IT",
+    "location": "HOUSTON, TEXAS, UNITED STATES",
+    "posted_date": "3 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Science Leader",
+    "company": "Anthrompic",
+    "industry": "AI systems",
+    "location": "SAN FRANCISCO, CA",
+    "posted_date": "3 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist (Federal)",
+    "company": "C3.ai",
+    "industry": "AI Software",
+    "location": "Tysons, VA",
+    "posted_date": "3 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Policy Applied Scientist, Earnings Policy",
+    "company": "Uber",
+    "industry": "Ridesharing and food delivery",
+    "location": "SAN FRANCISCO AND, UNITED STATES",
+    "posted_date": "3 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Researcher",
+    "company": "MatX",
+    "industry": "Technology",
+    "location": "MOUNTAIN VIEW, CA",
+    "posted_date": "3 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Manager, Data Engineering",
+    "company": "Garner Health",
+    "industry": "Employee healthcare benefits",
+    "location": "REMOTE",
+    "posted_date": "4 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Infrastructure Software Engineer",
+    "company": "Celonis",
+    "industry": "Process analysis",
+    "location": "Redwood City, US, California",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, VA, CHANTILLY",
+    "posted_date": "4 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Tailscale",
+    "industry": "Technology",
+    "location": "REMOTE (UNITED STATES)",
+    "posted_date": "4 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Storyblok",
+    "industry": "Technology",
+    "location": "Remote",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "BetterHelp",
+    "industry": "Health services",
+    "location": "US - REMOTE",
+    "posted_date": "4 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Architect",
+    "company": "West Monroe",
+    "industry": "Technology consulting",
+    "location": "CHICAGO; NEW YORK; SAN FRANCISCO; SEATTLE",
+    "posted_date": "4 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Data Engineering",
+    "company": "Neuralink",
+    "industry": "Implantable brain-machine interfaces",
+    "location": "Austin, Texas, United States",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Data Engineering",
+    "company": "Neuralink",
+    "industry": "Implantable brain-machine interfaces",
+    "location": "FREMONT, CALIFORNIA, UNITED STATES",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Advisory Architect - Data/AI Due Diligence",
+    "company": "West Monroe",
+    "industry": "Technology consulting",
+    "location": "CHICAGO; DALLAS; LOS ANGELES; MINNEAPOLIS; NEW YORK; SAN FRANCISCO; SEATTLE; WASHINGTON, D.C.",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer II, Computer Vision",
+    "company": "Pinterest",
+    "industry": "Image sharing and social media",
+    "location": "SAN FRANCISCO, CA, US; REMOTE, CA, US",
+    "posted_date": "4 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Machine Learning, Sensor Simulation",
+    "company": "Nuro",
+    "industry": "Autonomous robotics",
+    "location": "Mountain View, California (HQ)",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Hardware Engineer - ML Acceleration",
+    "company": "Amazon",
+    "industry": "AWS, Amazon EC2, Amazon S3",
+    "location": "US, TX, Austin",
+    "posted_date": "4 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Engineer I",
+    "company": "Pinterest",
+    "industry": "Image sharing and social media",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Deep Learning Engineer",
+    "company": "Carbon Robotics",
+    "industry": "Agriculture Robotics",
+    "location": "Seattle, WA",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Development Engineer II - Machine Learning",
+    "company": "Expedia",
+    "industry": "Travel booking (Expedia, Orbzit, Travelocity, Vrbo, etc)",
+    "location": "Washington (Seattle, Orbitz)",
+    "posted_date": "4 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer (Modeling), Risk Identity",
+    "company": "Block",
+    "industry": "FinTech",
+    "location": "BAY AREA, CA, UNITED STATES OF AMERICA",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Quality Engineer",
+    "company": "ServiceNow",
+    "industry": "Enterprise workflow software",
+    "location": "SANTA CLARA",
+    "posted_date": "4 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Manager, Data Science",
+    "company": "Mozilla",
+    "industry": "Software, Internet",
+    "location": "Remote, US",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Pinterest",
+    "industry": "Social Media, Image Sharing",
+    "location": "San Francisco, CA, US / Remote, CA, US",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist II, Global Strategy & Planning - Uber Eats",
+    "company": "Uber",
+    "industry": "Ride-sharing, Food Delivery",
+    "location": "Amsterdam, Netherlands / New York, United States",
+    "posted_date": "4 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist - Risk",
+    "company": "Uber",
+    "industry": "Ridesharing and food delivery",
+    "location": "Sunnyvale, United States / San Francisco, United States",
+    "posted_date": "4 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, BRP (Buyer Risk Prevention)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA",
+    "posted_date": "4 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, BRP (Buyer Risk Prevention)",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "San Diego, CA, US",
+    "posted_date": "4 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Manager, Marketing Data Science",
+    "company": "Mozilla",
+    "industry": "Firefox browser and other internet apps",
+    "location": "REMOTE US",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Voice Data Scientist",
+    "company": "Augmentir",
+    "industry": "Technology",
+    "location": "San Francisco, Chicago",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, BRP (Buyer Risk Prevention)",
+    "company": "Amazon",
+    "industry": "Risk Prevention",
+    "location": "US, CA, SAN DIEGO",
+    "posted_date": "4 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist II, Channels Team",
+    "company": "The Trade Desk",
+    "industry": "Programmatic digital advertising",
+    "location": "BELLEVUE",
+    "posted_date": "4 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Manager, Data Science",
+    "company": "Justworks",
+    "industry": "HR Technology",
+    "location": "New York, New York",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Marketing Data Scientist, Affiliate Channels",
+    "company": "SoFi",
+    "industry": "Lending and wealth management",
+    "location": "San Francisco, CA",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, BRP (Buyer Risk Prevention)",
+    "company": "Amazon",
+    "industry": "Retail, E-commerce",
+    "location": "US, CA, SAN DIEGO",
+    "posted_date": "4 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Garner Health",
+    "industry": "Healthcare",
+    "location": "New York City, New York",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist I, US - Risk & Fraud",
+    "company": "Uber",
+    "industry": "Ride-hailing and food delivery",
+    "location": "Sunnyvale, United States / San Francisco, United States",
+    "posted_date": "4 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Research Data Scientist",
+    "company": "iSpot.tv",
+    "industry": "Advertising",
+    "location": "Remote",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, BRP (Buyer Risk Prevention)",
+    "company": "Amazon",
+    "industry": "Retail",
+    "location": "San Diego, CA, USA",
+    "posted_date": "4 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist: Generative Modeling for Planning",
+    "company": "Autonomous robotics",
+    "industry": "Technology",
+    "location": "Mountain View, California (HQ)",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Scientist",
+    "company": "PayPal",
+    "industry": "Online Payments",
+    "location": "SAN JOSE, CALIFORNIA, UNITED STATES OF AMERICA",
+    "posted_date": "4 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Scientist III",
+    "company": "Wayfair",
+    "industry": "Furniture e-commerce",
+    "location": "Mountain View, CA",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Product Strategist, Expert Research",
+    "company": "AlphaSense",
+    "industry": "Technology",
+    "location": "New York, New York, United States",
+    "posted_date": "4 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer II - Data Analysis Platform",
+    "company": "Relativity Space",
+    "industry": "Orbital rockets",
+    "location": "LONG BEACH, CALIFORNIA",
+    "posted_date": "5 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer - Data Engine",
+    "company": "Applied Intuition",
+    "industry": "Autonomous vehicles",
+    "location": "Mountain View, California, United States",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer II - GTM Data",
+    "company": "Uber",
+    "industry": "Ridesharing and food delivery",
+    "location": "San Francisco, United States / Sunnyvale, United States",
+    "posted_date": "5 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician (AWS)",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "Ashburn, VA, STERLING",
+    "posted_date": "5 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Growth Data Engineer",
+    "company": "DigitalOcean",
+    "industry": "Cloud computing infrastructure",
+    "location": "AUSTIN",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Data Platform (CD&C Search)",
+    "company": "Benchling",
+    "industry": "Life Sciences",
+    "location": "San Francisco, CA",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Growth Data Engineer",
+    "company": "DigitalOcean",
+    "industry": "Cloud infrastructure",
+    "location": "Boston",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Growth Data Engineer",
+    "company": "DigitalOcean",
+    "industry": "Cloud computing infrastructure",
+    "location": "SEATTLE",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Fullstack AI Product Engineer - SF",
+    "company": "Hex",
+    "industry": "Data collaboration",
+    "location": "SF",
+    "posted_date": "5 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Otter",
+    "industry": "Technology / Software",
+    "location": "Mountain View, CA",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "ML Runtime Optimization Engineer",
+    "company": "Applied Intuition",
+    "industry": "Autonomous Vehicles",
+    "location": "Mountain View, California, United States",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer - Prediction and Planning",
+    "company": "Zoox",
+    "industry": "Autonomous Vehicles",
+    "location": "Foster City, CA",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Offensive AI Security Engineer \u2013 Red Team",
+    "company": "Lucid Motors",
+    "industry": "Electric vehicles",
+    "location": "NEWARK, CA",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Engineering Program Manager, Machine Learning",
+    "company": "Cohere",
+    "industry": "AI and NLP",
+    "location": "London / Toronto / San Francisco / New York / Montreal",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer - AI Agent",
+    "company": "Zoom",
+    "industry": "Video conferencing",
+    "location": "Seattle, WA",
+    "posted_date": "5 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Engineer, AI Training and Infrastructure",
+    "company": "Skild AI",
+    "industry": "Robotics",
+    "location": "Pittsburgh, San Francisco, Bengaluru",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Manager, Marketing Data Science",
+    "company": "Mozilla",
+    "industry": "Firefox browser and other internet apps",
+    "location": "REMOTE",
+    "posted_date": "5 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Manager, Data Science",
+    "company": "Mozilla",
+    "industry": "Internet Apps",
+    "location": "REMOTE",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Artificial General Intelligence",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, NY, New York",
+    "posted_date": "5 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist - Materials",
+    "company": "Lila Sciences",
+    "industry": "AI models for science",
+    "location": "CAMBRIDGE, MA",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Junior Applied Scientist, ML",
+    "company": "Sama",
+    "industry": "Data annotation for artificial intelligence",
+    "location": "San Jose, Costa Rica",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Enterprise Data Scientist",
+    "company": "IBM",
+    "industry": "Tech, software, and systems",
+    "location": "NEW YORK, NEW YORK, UNITED STATES",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist II, US Prime and Marketing Tech",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "WA, SEATTLE",
+    "posted_date": "5 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Artificial General Intelligence",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "MA, Boston",
+    "posted_date": "5 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist II, Amazon Bedrock (AWS)",
+    "company": "Amazon",
+    "industry": "LLM, AWS, Amazon EC2, Amazon S3",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "5 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Scientist, Open-Endedness (Level Flexible)",
+    "company": "Lila Sciences",
+    "industry": "Technology",
+    "location": "San Francisco, CA",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Lab Research Engineer",
+    "company": "Lila Sciences",
+    "industry": "AI models for science",
+    "location": "Cambridge, MA",
+    "posted_date": "5 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Junior Applied Scientist, ML",
+    "company": "Sama",
+    "industry": "Data annotation for artificial intelligence",
+    "location": "San Jose, Costa Rica",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Manager II, Machine Learning - Notifications Delivery",
+    "company": "Pinterest",
+    "industry": "Image sharing and social media",
+    "location": "SAN FRANCISCO, CA, US; REMOTE, US",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Engineer - Site Reliability Researcher",
+    "company": "Traversal",
+    "industry": "AI",
+    "location": "NEW YORK",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Research Engineer - AI Infrastructure",
+    "company": "Applied Intuition",
+    "industry": "Simulation and testing for autonomous vehicles",
+    "location": "MOUNTAIN VIEW, CALIFORNIA, UNITED STATES",
+    "posted_date": "5 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Mill",
+    "industry": "Food processing",
+    "location": "SAN BRUNO, CALIFORNIA",
+    "posted_date": "6 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Scientific Data Architect - New York",
+    "company": "TetraScience",
+    "industry": "Life sciences data management",
+    "location": "NEW YORK, NEW YORK, UNITED STATES (REMOTE)",
+    "posted_date": "6 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Full Stack Engineer (L5) - Consumer Data Systems",
+    "company": "Netflix",
+    "industry": "Entertainment",
+    "location": "Not specified",
+    "posted_date": "6 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer (Hybrid)",
+    "company": "NTT Data",
+    "industry": "Data engineering",
+    "location": "NEW YORK CITY, NEW YORK, UNITED STATES",
+    "posted_date": "6 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer II, Data Management",
+    "company": "Aurora",
+    "industry": "Self-driving technology",
+    "location": "Pittsburgh, Pennsylvania",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer II - Data Engineering",
+    "company": "Moloco Commerce Media",
+    "industry": "AdTech",
+    "location": "REDWOOD CITY, CALIFORNIA, UNITED STATES",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Developer Relations Engineer - AI Products",
+    "company": "Descope",
+    "industry": "Authentication and user management",
+    "location": "LOS ALTOS, CA",
+    "posted_date": "6 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Inference Engineer",
+    "company": "Perplexity AI",
+    "industry": "Conversational AI",
+    "location": "New York City; Palo Alto; San Francisco",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Hardware Dev Engineer (AWS Generative AI & ML Servers)",
+    "company": "Amazon",
+    "industry": "AWS Generative AI & ML Servers",
+    "location": "US, WA, Seattle",
+    "posted_date": "6 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Computer Vision/Machine Learning Engineer",
+    "company": "Anduril",
+    "industry": "Surveillance and defense systems",
+    "location": "Costa Mesa, CALIFORNIA, UNITED STATES",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer III",
+    "company": "Wayfair",
+    "industry": "Furniture e-commerce",
+    "location": "BOSTON, MA",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators",
+    "company": "Amazon",
+    "industry": "AWS",
+    "location": "US, CA, CUPERTINO",
+    "posted_date": "6 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AI Research/Machine Learning Engineer - Agent Products",
+    "company": "Perplexity AI",
+    "industry": "Conversational AI",
+    "location": "NEW YORK CITY; PALO ALTO; SAN FRANCISCO",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied AI Engineer",
+    "company": "Warp",
+    "industry": "Developer terminal",
+    "location": "Remote within US and Canada",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer (AI/LLM)",
+    "company": "Actively AI",
+    "industry": "AI",
+    "location": "NEW YORK CITY",
+    "posted_date": "6 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Systems Engineer",
+    "company": "Perplexity AI",
+    "industry": "Conversational AI",
+    "location": "New York City, Palo Alto, San Francisco",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Software Engineer - Evaluation Platform",
+    "company": "Perplexity AI",
+    "industry": "Conversational AI",
+    "location": "NEW YORK CITY; PALO ALTO; SAN FRANCISCO",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Notable",
+    "industry": "Health care administration",
+    "location": "SAN MATEO, CA / REMOTE",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Development Engineer - Machine Learning, Generative-AI",
+    "company": "Amazon",
+    "industry": "AI/ML",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "6 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Lightning AI",
+    "industry": "Artificial Intelligence",
+    "location": "New York, NY, San Francisco, CA",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist, Machine Learning",
+    "company": "Citizen",
+    "industry": "Public safety app",
+    "location": "REMOTE",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Dataiku",
+    "industry": "Data analytics and machine learning",
+    "location": "United States, Remote",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist, Decisions - Customer Care Tech",
+    "company": "Lyft",
+    "industry": "Ride-sharing",
+    "location": "San Francisco, CA",
+    "posted_date": "6 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AI Research/Machine Learning Engineer - Agent Products",
+    "company": "Perplexity AI",
+    "industry": "Conversational AI",
+    "location": "NEW YORK CITY; PALO ALTO; SAN FRANCISCO",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Scientist III",
+    "company": "Wayfair",
+    "industry": "Furniture e-commerce",
+    "location": "BOSTON, MA",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Research Scientist (L6) - LLM-Driven Product Understanding",
+    "company": "Netflix",
+    "industry": "Entertainment",
+    "location": "Remote",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "LLM Data Researcher",
+    "company": "Turing",
+    "industry": "AI",
+    "location": "REMOTE - UNITED STATES",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Research Engineer \u2013 Robotics Data & ML",
+    "company": "Turing",
+    "industry": "Turing love developers",
+    "location": "REMOTE - UNITED STATES",
+    "posted_date": "6 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Scientist III",
+    "company": "Wayfair",
+    "industry": "eCommerce",
+    "location": "Boston, MA",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Scientist - Post Training",
+    "company": "Perplexity AI",
+    "industry": "Conversational AI",
+    "location": "NEW YORK CITY; PALO ALTO; SAN FRANCISCO",
+    "posted_date": "6 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer - Reference Data",
+    "company": "Addepar",
+    "industry": "Wealth management tools",
+    "location": "REMOTE, USA",
+    "posted_date": "7 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer II, AWS Analytics Engineering",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA",
+    "posted_date": "7 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Expert Software Engineer/Database (Remote)",
+    "company": "Allscripts",
+    "industry": "Healthcare IT",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "posted_date": "7 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Infrastructure Engineer",
+    "company": "Zoom",
+    "industry": "Video conferencing",
+    "location": "Seattle, WA",
+    "posted_date": "7 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Amazon Advertising",
+    "company": "Amazon",
+    "industry": "Advertising",
+    "location": "New York, New York City",
+    "posted_date": "7 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist (Intelligence) - Remote",
+    "company": "Teamworks",
+    "industry": "Professional sports data",
+    "location": "REMOTE",
+    "posted_date": "7 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist - AI/ML(TS/SCI with CI poly)",
+    "company": "Maxar",
+    "industry": "Satellite technologies",
+    "location": "HERNDON, VA",
+    "posted_date": "7 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Amazon Advertising",
+    "company": "Amazon",
+    "industry": "N/A",
+    "location": "US, CA, SAN DIEGO",
+    "posted_date": "7 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AI Scientist - Agentic Verticals",
+    "company": "Zoom",
+    "industry": "N/A",
+    "location": "SEATTLE (WA)",
+    "posted_date": "7 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Engineer, PMTS",
+    "company": "Salesforce",
+    "industry": "SaaS business applications",
+    "location": "WASHINGTON - SEATTLE METRO - REMOTE",
+    "posted_date": "8 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Engineer - Tech Operations",
+    "company": "Sigma Computing",
+    "industry": "Data analytics",
+    "location": "SAN FRANCISCO, CA",
+    "posted_date": "9 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer, Dasher Earnings",
+    "company": "DoorDash",
+    "industry": "Restaurant delivery",
+    "location": "SAN FRANCISCO, CA; SUNNYVALE, CA; SEATTLE, WA",
+    "posted_date": "10 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer III",
+    "company": "PathAI",
+    "industry": "AI, Diagnostic and drug development software",
+    "location": "BOSTON (ONSITE), NEW YORK (ONSITE) PREFERRED, OR REMOTE",
+    "posted_date": "10 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Infrastructure Engineer",
+    "company": "DRW",
+    "industry": "Finance",
+    "location": "Palo Alto or Montreal",
+    "posted_date": "10 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Sponsored Brands Sourcing and Relevance (Advertising)",
+    "company": "Amazon",
+    "industry": "Not specified",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "10 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AI Research Scientist",
+    "company": "DRW",
+    "industry": "Proprietary trading firm",
+    "location": "PALO ALTO OR MONTREAL",
+    "posted_date": "10 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Research Engineer - Computer Vision ML",
+    "company": "Sesame",
+    "industry": "AI voice companions",
+    "location": "San Francisco",
+    "posted_date": "10 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Researcher",
+    "company": "Hudson River Trading",
+    "industry": "Quantitative trading firm",
+    "location": "NEW YORK, NY, UNITED STATES",
+    "posted_date": "10 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Researcher",
+    "company": "Hudson River Trading",
+    "industry": "Quantitative trading firm",
+    "location": "SEATTLE, WASHINGTON, UNITED STATES",
+    "posted_date": "10 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Scientist",
+    "company": "Workato",
+    "industry": "Data integration and workflow automation",
+    "location": "San Francisco, California and Workfroma",
+    "posted_date": "10 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Scientist",
+    "company": "Profluent",
+    "industry": "Technology",
+    "location": "Emeryville, California, United States (Hybrid)",
+    "posted_date": "10 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Palantir",
+    "industry": "Technology",
+    "location": "Not specified",
+    "posted_date": "11 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "VBC Data Engineer",
+    "company": "Phisician practice software",
+    "industry": "Healthcare",
+    "location": "Remote",
+    "posted_date": "11 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Architect",
+    "company": "MongoDB",
+    "industry": "NoSQL database",
+    "location": "Seattle",
+    "posted_date": "11 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Architect",
+    "company": "MongoDB",
+    "industry": "NoSQL database",
+    "location": "SAN FRANCISCO",
+    "posted_date": "11 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Infrastructure Engineer",
+    "company": "HeyGen",
+    "industry": "Generative AI for video",
+    "location": "LOS ANGELES, CALIFORNIA, UNITED STATES; PALO ALTO, CALIFORNIA, UNITED STATES; SAN FRANCISCO, CALIFORNIA, UNITED STATES; TORONTO, ONTARIO, CANADA",
+    "posted_date": "11 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer 3, Search AI",
+    "company": "MongoDB",
+    "industry": "Database",
+    "location": "PALO ALTO",
+    "posted_date": "11 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Engineer - Professional Services",
+    "company": "Nebius Group",
+    "industry": "AI Infrastructure",
+    "location": "REMOTE - UNITED STATES",
+    "posted_date": "11 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Fullstack Software Engineer - AI Products",
+    "company": "Snowflake",
+    "industry": "Cloud Data Warehouse",
+    "location": "US-CA-MENLO PARK",
+    "posted_date": "11 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Buyer Abuse Prevention ML, Buyer Prevention Machine Learning team",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA",
+    "posted_date": "11 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Demand Tech (Advertising)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "11 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Science Manager, Marketing Science & Measurement",
+    "company": "Pinterest",
+    "industry": "Social Media",
+    "location": "SAN FRANCISCO, CA, US; REMOTE, US",
+    "posted_date": "11 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist II, Sponsored Products Bidding (Advertising)",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "11 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Buyer Abuse Prevention ML, Buyer Abuse Prevention Machine Learning team",
+    "company": "Amazon",
+    "industry": "Retail, Technology",
+    "location": "Seattle, WA",
+    "posted_date": "11 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Engineer - Database",
+    "company": "IBM",
+    "industry": "Tech services, software, and systems",
+    "location": "San Jose, California, United States",
+    "posted_date": "12 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer II, Data Management",
+    "company": "DoorDash",
+    "industry": "Restaurant delivery",
+    "location": "SAN FRANCISCO, CA; SEATTLE, WA; SUNNYVALE, CA; NEW YORK, NY",
+    "posted_date": "12 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Analytics Engineer, GTM Data Infrastructure",
+    "company": "DoorDash",
+    "industry": "Restaurant delivery",
+    "location": "SAN FRANCISCO, CA; NEW YORK, NY; SEATTLE, WA; PHOENIX, AZ",
+    "posted_date": "12 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer II, Data Engineering",
+    "company": "DoorDash",
+    "industry": "Restaurant delivery",
+    "location": "SAN FRANCISCO, CA; SUNNYVALE, CA",
+    "posted_date": "12 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Homes.com",
+    "industry": "Real Estate",
+    "location": "Arlington, VA",
+    "posted_date": "12 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Data Mobility",
+    "company": "DoorDash",
+    "industry": "Food Delivery",
+    "location": "San Francisco, CA; Seattle, WA; Sunnyvale, CA",
+    "posted_date": "12 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer, Credit Risk",
+    "company": "Stripe",
+    "industry": "Payments infrastructure, LLM, Neural network, PyTorch, TensorFlow, Java, Ruby, Spark",
+    "location": "San Francisco",
+    "posted_date": "12 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Founding Backend Engineer (US)",
+    "company": "Robynr AI",
+    "industry": "Technology",
+    "location": "REMOTE - UNITED STATES",
+    "posted_date": "12 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Development Engineer- GENAI/ML, Amazon Catalog System Services(Level 5)",
+    "company": "Amazon",
+    "industry": "Not specified",
+    "location": "US, WA, Seattle",
+    "posted_date": "12 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Engineer - New Verticals Catalog",
+    "company": "DoorDash",
+    "industry": "Restaurant delivery",
+    "location": "SAN FRANCISCO, CA; SUNNYVALE, CA; LOS ANGELES, CA; SEATTLE, WA",
+    "posted_date": "12 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Level AI",
+    "industry": "Artificial Intelligence",
+    "location": "BAY AREA, CALIFORNIA",
+    "posted_date": "12 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer, Forecast Platform",
+    "company": "DoorDash",
+    "industry": "Restaurant delivery",
+    "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA",
+    "posted_date": "12 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer - Conversation AI",
+    "company": "DoorDash",
+    "industry": "Consumer applications (incl. TikTok, Douyin)",
+    "location": "SUNNYVALE, CA; SAN FRANCISCO, CA; SEATTLE, WA; LOS ANGELES, CA",
+    "posted_date": "12 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Product Security Engineer - Resilient Development AI Specialist",
+    "company": "Red Hat",
+    "industry": "Open source operating systems (part of IBM)",
+    "location": "BOSTON",
+    "posted_date": "12 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Manager, Data Science and Analytics",
+    "company": "Zeta Global",
+    "industry": "Marketing Technology",
+    "location": "New York, NY, US",
+    "posted_date": "12 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "H2O.ai",
+    "industry": "Technology",
+    "location": "AUSTIN, TX",
+    "posted_date": "12 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Manager, Data Science & Analytics - Dasher Earnings",
+    "company": "DoorDash",
+    "industry": "Restaurant delivery",
+    "location": "San Francisco, CA",
+    "posted_date": "12 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Experimentation and Causal Inference",
+    "company": "DoorDash",
+    "industry": "Restaurant delivery",
+    "location": "SAN FRANCISCO, CA; SEATTLE, WA; SUNNYVALE, CA",
+    "posted_date": "12 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Early Career Applied Scientist, Customer Forecasting and Valuation",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "12 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist 3",
+    "company": "Oracle",
+    "industry": "Technology",
+    "location": "United States (Remote)",
+    "posted_date": "12 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Research Software Engineer, Human-AI Interface",
+    "company": "Intrinsic",
+    "industry": "Industrial robotics",
+    "location": "MOUNTAIN VIEW, CALIFORNIA",
+    "posted_date": "12 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Manager, Machine Learning and Applied Science",
+    "company": "Metropolis",
+    "industry": "Parking facility tech",
+    "location": "Seattle, Washington, United States",
+    "posted_date": "12 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "BRAIN AI Researcher",
+    "company": "WorldQuant",
+    "industry": "Quantitative firm",
+    "location": "OLD GREENWICH OR NEW YORK",
+    "posted_date": "12 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Tech (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, VA, ASHBURN",
+    "posted_date": "13 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Full Stack/ Back End (Javascript/Node.js) Engineer - Data Integration",
+    "company": "Worth",
+    "industry": "Fintech compliance",
+    "location": "Tampa, FL",
+    "posted_date": "13 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Full Stack/Back End (Javascript/Node.js) Engineer - Data Integration",
+    "company": "Worth",
+    "industry": "Fintech compliance",
+    "location": "MIAMI, FLORIDA, UNITED STATES (REMOTE)",
+    "posted_date": "13 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician, DCC Communities (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, VA, ASHBURN",
+    "posted_date": "13 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Connector Engineer - Integrations",
+    "company": "DataHouse",
+    "industry": "Open-source database management system",
+    "location": "UNITED STATES (REMOTE)",
+    "posted_date": "13 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Tech (AWS)",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, VA, ASHBURN",
+    "posted_date": "13 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician, DCC",
+    "company": "Amazon",
+    "industry": "AWS",
+    "location": "US, VA, STERLING",
+    "posted_date": "13 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Infrastructure Engineer",
+    "company": "Worth",
+    "industry": "FinTech",
+    "location": "Tampa, Florida (Remote)",
+    "posted_date": "13 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Full Stack/ Back End (Javascript/Node.js) Engineer - Data Integration",
+    "company": "Worth",
+    "industry": "Fintech",
+    "location": "Atlanta, Georgia, United States (REMOTE)",
+    "posted_date": "13 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Quantitative Developer",
+    "company": "Point72",
+    "industry": "Hedge fund",
+    "location": "NEW YORK, LONDON, PARIS",
+    "posted_date": "13 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Tech (AWS)",
+    "company": "Amazon",
+    "industry": "Retail, Cloud Computing",
+    "location": "Ashburn, VA",
+    "posted_date": "13 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Full Stack/Back End (Javascript/Node.js) Engineer - Data Integration",
+    "company": "Finthech",
+    "industry": "Fintech compliance",
+    "location": "ORLANDO, FLORIDA, UNITED STATES (REMOTE)",
+    "posted_date": "13 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Infrastructure Engineer",
+    "company": "Worth",
+    "industry": "Fintech compliance",
+    "location": "ORLANDO, FLORIDA, UNITED STATES (REMOTE)",
+    "posted_date": "13 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Tech (AWS)",
+    "company": "Amazon",
+    "industry": "AWS",
+    "location": "US, VA, ASHURN",
+    "posted_date": "13 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Engineer - Recommendation Algorithms and Foundational Models",
+    "company": "Stitch Fix",
+    "industry": "Fashion e-commerce and styling",
+    "location": "REMOTE, USA",
+    "posted_date": "13 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer - AI Infrastructure",
+    "company": "Assembled",
+    "industry": "Customer support team management",
+    "location": "New York City, NY",
+    "posted_date": "13 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Development Engineer, AWS Healthcare AI",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA, US",
+    "posted_date": "13 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist, Experimentation",
+    "company": "BetterHelp",
+    "industry": "Health services",
+    "location": "US - REMOTE",
+    "posted_date": "13 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Science Manager",
+    "company": "PayPal",
+    "industry": "Online payments",
+    "location": "San Jose, California, United States of America",
+    "posted_date": "13 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist - LLM",
+    "company": "Stackline",
+    "industry": "e-commerce business tools",
+    "location": "SEATTLE",
+    "posted_date": "13 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Research Scientist - Applied AI",
+    "company": "P-1 AI",
+    "industry": "AI engineering agent",
+    "location": "SAN FRANCISCO / REMOTE",
+    "posted_date": "13 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Quantitative Developer",
+    "company": "Citadel",
+    "industry": "Tech-enabled hedge fund",
+    "location": "LONDON, NEW YORK",
+    "posted_date": "14 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Snowflake Data Engineer (Remote)",
+    "company": "NTT Data",
+    "industry": "IT consulting",
+    "location": "PHOENIX, ARIZONA, UNITED STATES",
+    "posted_date": "14 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer I, AGI-DS Customer Analytics",
+    "company": "Amazon",
+    "industry": "Retail, e-commerce",
+    "location": "US, WA, BELLEVUE",
+    "posted_date": "14 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AI Engineer",
+    "company": "Amplify",
+    "industry": "Education",
+    "location": "Remote - United States",
+    "posted_date": "14 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Amazon Advertising",
+    "company": "Amazon",
+    "industry": "Digital Media",
+    "location": "US, CA, PALO ALTO",
+    "posted_date": "14 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist II, Relationships Management",
+    "company": "Amazon",
+    "industry": "Relationships Management",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "14 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist (L5) - Ads Consumer",
+    "company": "Netflix",
+    "industry": "Entertainment",
+    "location": "Remote, USA",
+    "posted_date": "14 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist / Machine Learning Engineer",
+    "company": "Calico",
+    "industry": "Healthcare / Biotechnology",
+    "location": "South San Francisco, CA",
+    "posted_date": "16 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Forward Deployed Engineer - Applied AI",
+    "company": "Wonderschool",
+    "industry": "Childcare and Education",
+    "location": "Gallup, NM; San Francisco, CA; West Virginia, United States; Missouri, United States",
+    "posted_date": "16 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied AI Engineer",
+    "company": "Firstbase",
+    "industry": "Technology",
+    "location": "Remote",
+    "posted_date": "16 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Frontend Software Engineer \u2013 Cerebras AI Cloud",
+    "company": "Cerebras Systems",
+    "industry": "Deep learning hardware systems",
+    "location": "Sunnyvale, CA or Toronto, Canada",
+    "posted_date": "16 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Manager, Data Science",
+    "company": "Match Group",
+    "industry": "Dating",
+    "location": "PALO ALTO, CALIFORNIA",
+    "posted_date": "16 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Science, AI Data",
+    "company": "Meter",
+    "industry": "Networking",
+    "location": "SAN FRANCISCO",
+    "posted_date": "16 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist / Machine Learning Engineer",
+    "company": "Calico",
+    "industry": "Healthcare/Biotech",
+    "location": "SOUTH SAN FRANCISCO, CA",
+    "posted_date": "16 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Database Administrator/Reliability Engineer",
+    "company": "Rent the Runway",
+    "industry": "Subscription fashion service",
+    "location": "BROOKLYN, NY (RENT THE RUNWAY HQ)",
+    "posted_date": "17 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, VA, CHANTILLY",
+    "posted_date": "17 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician (AWS)",
+    "company": "Amazon",
+    "industry": "AWS",
+    "location": "US, VA, STERLING",
+    "posted_date": "17 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Archer",
+    "industry": "Electric vertical take-off vehicles",
+    "location": "SAN JOSE, CALIFORNIA, UNITED STATES",
+    "posted_date": "17 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Delivery Consultant - Data Architect, AWS Professional Services, AWS Professional Services",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA, US",
+    "posted_date": "17 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Distinguished Engineer, Machine Learning - Safety",
+    "company": "Roblox",
+    "industry": "Gaming",
+    "location": "SAN MATEO, CA, UNITED STATES",
+    "posted_date": "17 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer",
+    "company": "Archer",
+    "industry": "Trajectory score: Public * Valuation $7B * 800 employees",
+    "location": "SAN JOSE, CALIFORNIA, UNITED STATES",
+    "posted_date": "17 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Manager, Software Engineer - AI Governance",
+    "company": "Relyance AI",
+    "industry": "Privacy law compliance",
+    "location": "UNITED STATES (REMOTE)",
+    "posted_date": "17 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "tvScientific",
+    "industry": "TV advertising",
+    "location": "Remote, USA",
+    "posted_date": "17 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Kiddom",
+    "industry": "Education",
+    "location": "San Francisco",
+    "posted_date": "17 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI training data annotation",
+    "company": "TrueUp",
+    "industry": "Tech",
+    "location": "SAN FRANCISCO, CA; NEW YORK, NY",
+    "posted_date": "17 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI/ML Developer Advocate",
+    "company": "Snorkel AI",
+    "industry": "Data labeling",
+    "location": "REDWOOD CITY, CA (HYBRID); SAN FRANCISCO, CA (HYBRID)",
+    "posted_date": "17 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist II, Digital Acceleration",
+    "company": "Amazon",
+    "industry": "N/A",
+    "location": "US, WA, BELLEVUE",
+    "posted_date": "17 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist, Marketing",
+    "company": "Brex",
+    "industry": "Financial Services",
+    "location": "New York, New York, United States",
+    "posted_date": "17 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer",
+    "company": "Archer",
+    "industry": "Vertically integrated take-off vehicles",
+    "location": "SAN JOSE, CALIFORNIA, UNITED STATES",
+    "posted_date": "17 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Quantitative Software Developer",
+    "company": "Point72",
+    "industry": "Finance",
+    "location": "NEW YORK",
+    "posted_date": "18 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Full Stack (Data Input)",
+    "company": "Benchling",
+    "industry": "Life sciences R&D",
+    "location": "SAN FRANCISCO, CA",
+    "posted_date": "18 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Quantitative Software Developer",
+    "company": "Point72",
+    "industry": "Hedge Fund",
+    "location": "NEW YORK",
+    "posted_date": "18 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer - Blockchain Data (fully remote)",
+    "company": "Dune Analytics",
+    "industry": "Crypto Data Analytics",
+    "location": "Europe and US based / Europe / London / New York / East Coast US & Europe (Remote)",
+    "posted_date": "18 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Development Engineer, S3 Console and Data Experience (AWS)",
+    "company": "Amazon",
+    "industry": "Cloud Computing",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "18 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Integration Engineer, Technology",
+    "company": "Point72",
+    "industry": "Technology",
+    "location": "New York, CT",
+    "posted_date": "18 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer III - Data Infrastructure for Enterprise Transformation, High Velocity Transformation",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, VA, Arlington",
+    "posted_date": "18 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Center Systems Architect",
+    "company": "AMD",
+    "industry": "Semiconductor design",
+    "location": "AUSTIN, TEXAS",
+    "posted_date": "18 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Point72",
+    "industry": "Finance",
+    "location": "New York",
+    "posted_date": "18 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer, Selling Partner Experience | AI initiatives",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA, US",
+    "posted_date": "18 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Operational Safety Data Engineer",
+    "company": "Zoox",
+    "industry": "Automotive",
+    "location": "Foster City, CA",
+    "posted_date": "18 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Manager I, Engineering - RUM Data Insights",
+    "company": "Datadog",
+    "industry": "Monitoring for cloud applications",
+    "location": "NEW YORK, NEW YORK, USA",
+    "posted_date": "18 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Point72",
+    "industry": "Hedge Fund",
+    "location": "Stamford, CT",
+    "posted_date": "18 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "NLP Engineer",
+    "company": "Point72",
+    "industry": "Hedge Fund",
+    "location": "New York",
+    "posted_date": "18 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Cubist Data Scientist",
+    "company": "Point72",
+    "industry": "Hedge fund",
+    "location": "New York",
+    "posted_date": "18 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist, Proprietary Research",
+    "company": "Point72",
+    "industry": "Finance",
+    "location": "New York, NY",
+    "posted_date": "18 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist III - AI Data Scientist for Enterprise Transformation, High Velocity Transformation",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, VA, Arlington",
+    "posted_date": "18 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Prime Video - Content Generation Team",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "Sunnyvale, CA, US",
+    "posted_date": "18 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Quantitative Researcher (NLP)",
+    "company": "Point72",
+    "industry": "Hedge fund",
+    "location": "New York",
+    "posted_date": "18 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist III \u2013 AI Data Solutioning for Enterprise Transformation, High Velocity Transformation",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "Arlington, VA, USA",
+    "posted_date": "18 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Quantitative Researcher - Machine Learning",
+    "company": "Point72",
+    "industry": "Finance",
+    "location": "NEW YORK",
+    "posted_date": "18 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Quantitative Researcher - Machine Learning",
+    "company": "Point72",
+    "industry": "Hedge fund",
+    "location": "NEW YORK, LONDON, OR HONG KONG",
+    "posted_date": "18 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineer",
+    "company": "Akuna Capital",
+    "industry": "Trading firm",
+    "location": "REMOTE",
+    "posted_date": "19 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer - Vision Language Model",
+    "company": "Upstage",
+    "industry": "AI tech enablement",
+    "location": "REMOTE",
+    "posted_date": "19 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
+    "company": "Orbit Program",
+    "industry": "Process analysis",
+    "location": "NEW YORK, US, NEW YORK",
+    "posted_date": "19 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Development Engineer II, Measurement, Ad Tech, and Data Science (MADS) (Advertising)",
+    "company": "Amazon",
+    "industry": "Advertising",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "19 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist, TSI Science",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, WA, Seattle",
+    "posted_date": "19 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, WW Integrated Marketing Systems & Intelligence",
+    "company": "Amazon",
+    "industry": "",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "19 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AI Research Engineer - Vision Language Model",
+    "company": "Upstage",
+    "industry": "AI tech enablement",
+    "location": "Remote",
+    "posted_date": "19 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Scientist, Bioinformatics",
+    "company": "SandboxAQ",
+    "industry": "Quantum cryptography and simulation",
+    "location": "REMOTE, USA; REMOTE, CANADA",
+    "posted_date": "19 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Database Team",
+    "company": "Pinecone",
+    "industry": "Technology",
+    "location": "New York City, NY, US",
+    "posted_date": "20 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer II, AWS Analytics Engineering",
+    "company": "Amazon",
+    "industry": "AWS, Amazon EC2, Amazon S3",
+    "location": "Seattle, WA",
+    "posted_date": "20 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Dev Engineer II (L5), Measurement, Ad Tech, and Data Science (MADS) (Advertising)",
+    "company": "Amazon",
+    "industry": "Advertising",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "20 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Delivery Consultant - Machine Learning Engineer, AWS Professional Services",
+    "company": "Amazon",
+    "industry": "AWS Professional Services",
+    "location": "US, MA, BOSTON",
+    "posted_date": "20 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Engineer, Sponsored Products Search",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "Seattle, WA",
+    "posted_date": "20 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Early Career Machine Learning Engineer",
+    "company": "EvenUp",
+    "industry": "Personl case doc generation",
+    "location": "TORONTO (HYBRID) / SAN FRANCISCO (HYBRID) / REMOTE",
+    "posted_date": "20 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Contextual AI",
+    "industry": "Artificial Intelligence",
+    "location": "MOUNTAIN VIEW, CA",
+    "posted_date": "20 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Product Test Engineer (AWS)",
+    "company": "Amazon",
+    "industry": "Machine Learning Hardware",
+    "location": "Austin, TX",
+    "posted_date": "20 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Manager, Data Science, P2 Science, Data, and Insights",
+    "company": "Amazon",
+    "industry": "Retail, eCommerce",
+    "location": "Seattle, WA, US",
+    "posted_date": "20 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Expert AI/ML Applied Scientist - Generative AI",
+    "company": "SAP",
+    "industry": "Technology",
+    "location": "NEWPORT BEACH, CA, US",
+    "posted_date": "20 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist, AI",
+    "company": "BetterHelp",
+    "industry": "Health services",
+    "location": "US - Remote",
+    "posted_date": "20 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Dev Engineer II (L5), Measurement, Ad Tech, and Data Science (MADS) (Advertising)",
+    "company": "Amazon",
+    "industry": "Advertising",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "20 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Red Hat",
+    "industry": "Open source operating systems (part of IBM)",
+    "location": "REMOTE US NC",
+    "posted_date": "20 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist, NAS Mosaic",
+    "company": "Amazon",
+    "industry": "Retail, E-commerce",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "20 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Founding Data Scientist",
+    "company": "Cinder",
+    "industry": "Content moderation operations",
+    "location": "NEW YORK",
+    "posted_date": "20 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Amazon Customer Service",
+    "company": "Amazon",
+    "industry": "Not specified",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "20 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Expert/AI/ML Applied Scientist - Generative AI",
+    "company": "SAP",
+    "industry": "Technology",
+    "location": "Newport Beach, CA, US",
+    "posted_date": "20 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI DevOps Engineer",
+    "company": "DuploCloud",
+    "industry": "Technology",
+    "location": "REMOTE (UNITED STATES)",
+    "posted_date": "21 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "System Engineer, AI Research, Prime Video - Content Understanding",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA",
+    "posted_date": "21 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Scientist (L5) - Ads",
+    "company": "Netflix",
+    "industry": "Media and Entertainment",
+    "location": "USA (REMOTE)",
+    "posted_date": "21 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "QA Engineer - Data Platform",
+    "company": "Veeva Systems",
+    "industry": "Life Sciences",
+    "location": "Pennsylvania - Philadelphia (Remote)",
+    "posted_date": "23 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Engineer - Full-Stack",
+    "company": "Traversal",
+    "industry": "Observability and site reliability engineering",
+    "location": "NEW YORK",
+    "posted_date": "23 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Machine Learning, Calibration",
+    "company": "Nuro",
+    "industry": "robotics",
+    "location": "Mountain View, California (HQ)",
+    "posted_date": "23 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Engineer - Frontend",
+    "company": "Traverser",
+    "industry": "Observability and site reliability engineering",
+    "location": "NEW YORK",
+    "posted_date": "23 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, AI Platform - New Grad",
+    "company": "Nuro",
+    "industry": "Autonomous robotics",
+    "location": "MOUNTAIN VIEW, CALIFORNIA (HQ)",
+    "posted_date": "23 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Engineer - Agents",
+    "company": "Traversal",
+    "industry": "Observability and site reliability engineering",
+    "location": "New York",
+    "posted_date": "23 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Machine Learning Infrastructure",
+    "company": "Nuro",
+    "industry": "Tech",
+    "location": "MOUNTAIN VIEW, CALIFORNIA (HQ)",
+    "posted_date": "23 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist, Behavior Planning and Prediction",
+    "company": "Nuro",
+    "industry": "Autonomous robotics",
+    "location": "Mountain View, California",
+    "posted_date": "23 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Researcher",
+    "company": "Traversal",
+    "industry": "Observability and site reliability engineering",
+    "location": "NEW YORK",
+    "posted_date": "23 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Researcher",
+    "company": "Hume",
+    "industry": "Conversational AI",
+    "location": "NYC, SAN JOSE, OR REMOTE",
+    "posted_date": "23 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Systems Engineer - Data Systems & Platforms",
+    "company": "Hudson River Trading",
+    "industry": "Quantitative trading firm",
+    "location": "TARRYTOWN, NEW YORK, UNITED STATES",
+    "posted_date": "24 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Systems Engineer - Data Systems & Platforms",
+    "company": "Hudson River Trading",
+    "industry": "Quantitative trading firm",
+    "location": "BOSTON, MASSACHUSETTS, UNITED STATES",
+    "posted_date": "24 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "CPDL/FPGA Firmware Engineer, Annapurna Labs, ML Accelerator Systems Firmware (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, TX, AUSTIN",
+    "posted_date": "24 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, SPX AI Lab",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "24 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist III, Optimal Sourcing Systems (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "E-commerce, Cloud Computing",
+    "location": "Bellevue",
+    "posted_date": "24 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, SPX AI Lab",
+    "company": "Amazon",
+    "industry": "Consumer applications (incl. TikTok, Douyin)",
+    "location": "US, WA, Seattle",
+    "posted_date": "24 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+    "company": "Canonical",
+    "industry": "Support and services for Ubuntu",
+    "location": "Home Based - Worldwide",
+    "posted_date": "25 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
+    "company": "Canonical",
+    "industry": "Support and services for Ubuntu",
+    "location": "HOME BASED - WORLDWIDE",
+    "posted_date": "25 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "VRChat",
+    "industry": "Technology",
+    "location": "ANYWHERE (REMOTE)",
+    "posted_date": "25 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Engineer - Office of the CTO",
+    "company": "Sonatus",
+    "industry": "Software",
+    "location": "Sunnyvale, CA",
+    "posted_date": "25 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Presales Data Science Architect \u2013 AWS Cloud",
+    "company": "Rackspace",
+    "industry": "Managed cloud computing",
+    "location": "UNITED STATES - REMOTE (REMOTE)",
+    "posted_date": "25 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Data Platform",
+    "company": "Lyft",
+    "industry": "Ridesharing",
+    "location": "Seattle, WA",
+    "posted_date": "26 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Development Engineer, Amazon Music - DevEx AI",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "San Francisco, CA",
+    "posted_date": "26 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Development Engineer - Machine Learning, Sponsored Products, Sponsored Products Search (Advertising)",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, WA, Seattle",
+    "posted_date": "26 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Engineer, Image Processing and Machine Learning",
+    "company": "Battery recycling",
+    "industry": "Technology",
+    "location": "San Francisco, CALIFORNIA, UNITED STATES",
+    "posted_date": "26 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist, Commercial Analytics",
+    "company": "Paradigm",
+    "industry": "Clinical trial software",
+    "location": "Remote",
+    "posted_date": "26 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Brand Protection ML",
+    "company": "Amazon",
+    "industry": "Machine Learning",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "26 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist - Advertising",
+    "company": "Spotify",
+    "industry": "Music streaming service",
+    "location": "NEW YORK, NY (REMOTE)",
+    "posted_date": "26 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Manager, Machine Learning and Applied Science",
+    "company": "Adobe",
+    "industry": "Creative software",
+    "location": "SAN JOSE",
+    "posted_date": "26 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Technical Product Manager (AI/ML Research), Remote",
+    "company": "Aledade",
+    "industry": "Primary-care physician software",
+    "location": "Remote, United States",
+    "posted_date": "26 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Brand Protection ML",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA",
+    "posted_date": "26 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Backend Java Engineer II - Data Pipelines",
+    "company": "Esri",
+    "industry": "Mapping software",
+    "location": "REDLANDS, CA",
+    "posted_date": "27 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Future Tech positions",
+    "company": "Weedmaps",
+    "industry": "Cannabis industry tech",
+    "location": "IRVINE, CA (HQ), AUSTIN, TX, REMOTE",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer - Data",
+    "company": "Eight Sleep",
+    "industry": "Smart mattress",
+    "location": "SAN FRANCISCO, CA OR NEW YORK, NY",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Fine-tuning)",
+    "company": "Tether",
+    "industry": "Cryptocurrency",
+    "location": "Remote",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Model Serving & Inference)",
+    "company": "Tether",
+    "industry": "Cryptocurrency",
+    "location": "Remote",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Fine-tuning)",
+    "company": "Tether",
+    "industry": "Crypto stablecoin",
+    "location": "Remote",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Pre-training)",
+    "company": "Tether",
+    "industry": "Cryptocurrency",
+    "location": "Remote",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Fine-tuning)",
+    "company": "Tether",
+    "industry": "Crypto stablecoin",
+    "location": "REMOTE",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Model Evaluation)",
+    "company": "Tether",
+    "industry": "Crypto stablecoin",
+    "location": "REMOTE JOB",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Fine-tuning)",
+    "company": "Tether",
+    "industry": "Cryptocurrency",
+    "location": "Remote",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Autonomy Engineer - Deep Learning Model Acceleration",
+    "company": "Skydio",
+    "industry": "Drones",
+    "location": "San Mateo, California, United States",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Autonomy Engineer - Deep Learning",
+    "company": "Skydio",
+    "industry": "Autonomous drones",
+    "location": "San Mateo, California, United States",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist - Autonomy",
+    "company": "Zoox",
+    "industry": "Autonomous vehicles (part of Amazon)",
+    "location": "FOSTER CITY, CA",
+    "posted_date": "27 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Associate Principal Data Scientist",
+    "company": "King",
+    "industry": "Gaming",
+    "location": "SAN FRANCISCO",
+    "posted_date": "27 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Fine-tuning)",
+    "company": "Tether",
+    "industry": "Crypto stablecoin",
+    "location": "REMOTE JOB",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Model Serving & Inference)",
+    "company": "Tether",
+    "industry": "Crypto stablecoin",
+    "location": "REMOTE JOB",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Pre-training)",
+    "company": "Tether",
+    "industry": "Crypto stablecoin",
+    "location": "REMOTE JOB",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Scientist III, Growth Marketing (Gen AI)",
+    "company": "Expedia",
+    "industry": "Travel",
+    "location": "Washington, Seattle",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Fine-tuning)",
+    "company": "Tether",
+    "industry": "Crypto stablecoin",
+    "location": "REMOTE JOB",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Model Evaluation)",
+    "company": "Tether",
+    "industry": "Cryptocurrency, Blockchain",
+    "location": "Remote",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Fine-tuning)",
+    "company": "Tether",
+    "industry": "Cryptocurrency, Blockchain",
+    "location": "Remote",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Fine-tuning)",
+    "company": "Tether",
+    "industry": "Cryptocurrency",
+    "location": "Remote",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Model Evaluation)",
+    "company": "Tether",
+    "industry": "Cryptocurrency",
+    "location": "Remote",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Pre-training)",
+    "company": "Tether",
+    "industry": "Crypto stablecoin",
+    "location": "REMOTE",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Model Evaluation)",
+    "company": "Tether",
+    "industry": "Cryptocurrency",
+    "location": "REMOTE JOB",
+    "posted_date": "27 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Model Evaluation)",
+    "company": "Tether",
+    "industry": "Crypto stablecoin",
+    "location": "REMOTE JOB",
+    "posted_date": "27 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Fine-tuning)",
+    "company": "Tether",
+    "industry": "Crypto stablecoin",
+    "location": "REMOTE JOB",
+    "posted_date": "27 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Model Evaluation)",
+    "company": "Tether",
+    "industry": "Cryptocurrency",
+    "location": "REMOTE JOB",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Pre-training)",
+    "company": "Tether",
+    "industry": "Cryptocurrency",
+    "location": "Remote",
+    "posted_date": "27 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Model Serving & Inference)",
+    "company": "Tether",
+    "industry": "Blockchain",
+    "location": "REMOTE",
+    "posted_date": "27 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer (L5) - Content",
+    "company": "Netflix",
+    "industry": "Entertainment",
+    "location": "USA - REMOTE",
+    "posted_date": "28 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer III, Amazon Key",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "28 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Business Intelligence Engineer, P2 Science, Data, and Insights",
+    "company": "Amazon",
+    "industry": "Business Intelligence",
+    "location": "US, WA, Seattle",
+    "posted_date": "28 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Engineer Graduate (E-Commerce Knowledge Graph - CV/Multimodal/NLP) - 2026 Start",
+    "company": "PhD (PhDance)",
+    "industry": "Neural network, PyTorch, TensorFlow, C++, Java, Hadoop, Spark",
+    "location": "San Jose",
+    "posted_date": "28 days ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, AWS Professional Services",
+    "company": "Amazon",
+    "industry": "Cloud Computing",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "28 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Science Manager, New Product & Partnerships",
+    "company": "Lyft",
+    "industry": "Ridesharing",
+    "location": "New York, NY",
+    "posted_date": "28 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, AWS Professional Services",
+    "company": "Amazon",
+    "industry": "Information Technology",
+    "location": "Arlington, VA",
+    "posted_date": "28 days ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Science Manager, New Product & Partnerships",
+    "company": "Lyft",
+    "industry": "Ridesharing",
+    "location": "SAN FRANCISCO, CA",
+    "posted_date": "28 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Systems Modeling, AWS Center for Quantum Computing",
+    "company": "Amazon",
+    "industry": "Quantum Computing",
+    "location": "US, CA, SAN FRANCISCO",
+    "posted_date": "28 days",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Salesforce Solutions Architect (Technical Solutions Engineer)",
+    "company": "AgentSync",
+    "industry": "compliance",
+    "location": "REMOTE (GEORGIA)",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Controls Engineer (AWS)",
+    "company": "Amazon",
+    "industry": "Healthcare IT",
+    "location": "Herndon, VA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Engineer, Data Platform",
+    "company": "Notion",
+    "industry": "Workspace for notes, tasks, and wikis",
+    "location": "San Francisco, CA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Manager of Data Engineering",
+    "company": "StyleSeat",
+    "industry": "Beauty and grooming",
+    "location": "Remote (U.S. Based Only - Select States)",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Founding Data Engineer",
+    "company": "Netic",
+    "industry": "Sales automation for home services",
+    "location": "SAN FRANCISCO",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Abridge",
+    "industry": "AI for medical records",
+    "location": "SAN FRANCISCO-HYBRID / REMOTE",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Kikoff",
+    "industry": "FinTech",
+    "location": "San Francisco Office",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Fashion & Fitness 11d Data Science, Engineering Analytics Research & Science (EARS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA, US",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Engineer, Data Infrastructure",
+    "company": "Figma",
+    "industry": "Technology",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician, DCC Communities (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, VA, Sterling",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Engineer II, Data Analysis",
+    "company": "Samsung",
+    "industry": "Conglomerate",
+    "location": "85 CHALLENGER RD., RIDGEFIELD PARK, NJ, USA",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Forward Deployed Data Engineer (TS/SCI)",
+    "company": "TRM",
+    "industry": "Finance",
+    "location": "Washington DC",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician (AWS)",
+    "company": "Amazon",
+    "industry": "N/A",
+    "location": "US, VA, HERNDON",
+    "posted_date": "1 month",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician, Night Shift (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Sterling, VA",
+    "posted_date": "1 month",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Scientific Data Architect - Boston",
+    "company": "TetraScience",
+    "industry": "Life Sciences",
+    "location": "CAMBRIDGE, MASSACHUSETTS, UNITED STATES",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer II, Data, Autonomy",
+    "company": "Rivian",
+    "industry": "Automotive",
+    "location": "PALO ALTO, CALIFORNIA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Fullstack Software Engineer II, Data Applications, Triage & Simulation (Autonomy)",
+    "company": "Rivian",
+    "industry": "Electric vehicles",
+    "location": "Palo Alto, California",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist / Research Engineer, Science of Data",
+    "company": "Scale",
+    "industry": "AI",
+    "location": "SAN FRANCISCO, CA; SEATTLE, WA; NEW YORK, NY",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer (L6), Ads Data Clean Rooms",
+    "company": "Netflix",
+    "industry": "USA",
+    "location": "REMOTE",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Connectivity Engineer, AWS Data Center",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, CA, CUPERTINO",
+    "posted_date": "1 month",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician, DCC Communities (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, VA, STERLING",
+    "posted_date": "1 month",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Center Critical Facilities Engineer V",
+    "company": "Equinix",
+    "industry": "Data center facilities and infrastructure",
+    "location": "ASHBURN",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Data Product",
+    "company": "TRM",
+    "industry": "Crypto fraud investigation and monitoring",
+    "location": "UNITED STATES - REMOTE",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Business Intelligence Engineer, P2 Science, Data, and Business Insights",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Engineer, Database Engine (University Graduate)",
+    "company": "SingleStore",
+    "industry": "Database",
+    "location": "San Francisco, CA or Seattle, WA or Raleigh, NC",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer, Digital Acceleration",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "Bellevue, WA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Quantitative Developer, Systematic US Equity Options",
+    "company": "Millennium",
+    "industry": "Hedge fund",
+    "location": "Seattle, Washington, United States of America",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Contentsquare",
+    "industry": "Customer experience analytics service",
+    "location": "NEW YORK, NEW YORK",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician, DCC Communities (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Chantilly, VA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Quantitative Developer, Systematic Futures and Equities",
+    "company": "Quantitative",
+    "industry": "Hedge fund",
+    "location": "Seattle, Washington, United States of America",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Analytics Engineer",
+    "company": "Clover Health",
+    "industry": "Medicare health insurance",
+    "location": "Remote - USA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Full Stack Software Engineer (Data Insights & Reporting)",
+    "company": "Bitwarden",
+    "industry": "Software",
+    "location": "REMOTE, U.S.",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Scientific Data Architect",
+    "company": "TetraScience",
+    "industry": "Life Sciences data management",
+    "location": "Boston, Massachusetts, United States",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Quantitative Developer - Equity Research Technology",
+    "company": "Millennium Hedge Fund",
+    "industry": "Finance",
+    "location": "New York, NY",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer, Insights, Data Engineering, Economeron, Analytics & Science (IDEAS) (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Product Engineer, AI Data Platform",
+    "company": "Labelbox",
+    "industry": "Data annotation and labeling",
+    "location": "SAN FRANCISCO BAY AREA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer II, ITA - Workforce Intelligence",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Development Engineer, Measurement, Ad Tech, and Data Science (MADS) (Advertising)",
+    "company": "Amazon",
+    "industry": "Ad Tech",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Future Opportunities with Engineering & Data",
+    "company": "Homebase",
+    "industry": "SMB tools to manage teams and hourly workers",
+    "location": "San Francisco / Houston / Toronto / Denver",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Developer - Data Services (KDB+/Q)",
+    "company": "Squarepoint Capital",
+    "industry": "Finance",
+    "location": "Singapore, Montreal, London, Hong Kong, New York, Warsaw",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer, Amazon Smart Vehicles",
+    "company": "Amazon",
+    "industry": "Amazon Smart Vehicles",
+    "location": "US, CA, SUNNYVALE",
+    "posted_date": "1 month",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Moladin",
+    "industry": "Used car and motorbike marketplace",
+    "location": "REMOTE",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Full-stack Engineer (Generative AI Prototyping & MVP)",
+    "company": "AI Fund",
+    "industry": "Venture focused on AI",
+    "location": "UNITED STATES (REMOTE)",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer - LLM",
+    "company": "Upstage",
+    "industry": "AI",
+    "location": "REMOTE JOB",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Voxel51",
+    "industry": "Data processing for AI model training",
+    "location": "REMOTE",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "ML Research Engineer, ML Systems",
+    "company": "Scale",
+    "industry": "AI training data annotation",
+    "location": "SAN FRANCISCO, CA; SEATTLE, WA; NEW YORK, NY",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist/Engineer, Agents",
+    "company": "Scale",
+    "industry": "AI",
+    "location": "SAN FRANCISCO, CA; SEATTLE, WA; NEW YORK, NY",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, ML Infrastructure, Limited Duration",
+    "company": "Waymo",
+    "industry": "Self-driving cars",
+    "location": "Mountain View, California",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Applied AI",
+    "company": "ReTool",
+    "industry": "Application Development",
+    "location": "San Francisco, CA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Research Engineer, Large Behavior Models - Computer Vision",
+    "company": "Toyota Research Institute",
+    "industry": "Automotive",
+    "location": "LOS ALTOS, CA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, AI Product",
+    "company": "Figma",
+    "industry": "Multi-ga design tools",
+    "location": "SAN FRANCISCO, CA \u2022 NEW YORK, NY \u2022 UNITED STATES",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist / Research Engineer",
+    "company": "Scale",
+    "industry": "AI Training Data Annotation",
+    "location": "San Francisco, CA; Seattle, WA; New York, NY",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software engineer, python (Generative AI)",
+    "company": "Writer",
+    "industry": "Technology",
+    "location": "Austin, TX (HYBRID)",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, AI Infrastructure",
+    "company": "Multiga",
+    "industry": "Design Tools",
+    "location": "San Francisco, CA / New York, NY / United States",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Automation Engineer (Remote)",
+    "company": "Q&A",
+    "industry": "N/A",
+    "location": "Remote - Multiple Locations / United States / Canada / Ireland / & 13 Other Countries",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Partner Engineer, Android Platform/ Galaxy AI",
+    "company": "Samsung Research America",
+    "industry": "Technology",
+    "location": "Mountain View, CA, USA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Agent Software Engineer - Agent Performance Engineering",
+    "company": "Assembled",
+    "industry": "Technology",
+    "location": "San Francisco, CA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Compiler Engineer, Annapurna Labs",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, CA, CUPERTINO",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Technology Engineer",
+    "company": "Qualcomm",
+    "industry": "Wireless technology",
+    "location": "SAN DIEGO, CALIFORNIA, UNITED STATES OF AMERICA",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer, Public Sector",
+    "company": "Scale",
+    "industry": "Data Annotation",
+    "location": "San Francisco, CA; New York, NY; Washington, DC",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Engineer",
+    "company": "Venture Fund",
+    "industry": "AI",
+    "location": "Palo Alto, CA",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist / Research Engineer",
+    "company": "Science of Data",
+    "industry": "AI training data annotation",
+    "location": "San Francisco, CA; Seattle, WA; New York, NY",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Machine Learning",
+    "company": "AssemblyAI",
+    "industry": "Speech-to-text APIs",
+    "location": "REMOTE",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Gecko Robotics",
+    "industry": "Industrial inspections",
+    "location": "Boston / New York City",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer - Ads",
+    "company": "Nextdoor",
+    "industry": "Neighborhood social network",
+    "location": "San Francisco, CA",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer, AWS Neuron Apps, AWS Neuron",
+    "company": "Amazon",
+    "industry": "AWS",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "1 month",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Research Engineer",
+    "company": "Optiver",
+    "industry": "Proprietary trading firm",
+    "location": "NEW YORK, NEW YORK",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Platform Engineer, AI Enablement",
+    "company": "Blackbaud",
+    "industry": "Cloud software for nonprofits",
+    "location": "REMOTE - ANYWHERE - USA",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Agent Software Engineer - Agent Performance Engineering",
+    "company": "Assembled",
+    "industry": "Customer team management",
+    "location": "New York City, NY",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist",
+    "company": "Adobe",
+    "industry": "Creative software",
+    "location": "SAN JOSE",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, AGI Info - Web Information Systems",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Sunnyvale, CA, USA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Fashion & Fitness Data Science, Engineering Analytics Research and Science (EARS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA, USA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist II, Amazon Shopping Personalization",
+    "company": "Amazon",
+    "industry": "Retail, E-commerce",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "1 month",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Demand Forecasting, SCOT (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "Retail, E-commerce",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "1 month",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist, Fitness & Fashion (Mosaic)",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "Seattle, WA, US",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Advertising Brand Intelligence",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist 4",
+    "company": "Oracle",
+    "industry": "Technology",
+    "location": "Remote",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist II, AWS Q for Business",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, CA, SANTA CLARA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "PayPal",
+    "industry": "Financial Services",
+    "location": "SAN JOSE, CALIFORNIA, UNITED STATES OF AMERICA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Figma",
+    "industry": "Technology",
+    "location": "Multi-User Design Tools, San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Conversational AI",
+    "company": "TrueUp Tech Jobs",
+    "industry": "Tech",
+    "location": "San Francisco",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Esri",
+    "industry": "Mapping software",
+    "location": "Redlands, CA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist II, Ads Fraud and Verification",
+    "company": "Amazon",
+    "industry": "Advertising",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "1 month",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Last Mile Planning (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "Operations",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "1 month",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Sponsored Products (Advertising)",
+    "company": "Amazon",
+    "industry": "Not specified",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist - Connected Intelligence",
+    "company": "Qualtrics",
+    "industry": "Experience management",
+    "location": "SEATTLE, WASHINGTON, UNITED STATES",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Quantum Applied Scientist, Simulation Methods and Tools, AWS Center for Quantum Computing",
+    "company": "Amazon",
+    "industry": "AWS Center for Quantum Computing",
+    "location": "US, CA, PASADENA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist, Modeling and Optimization (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "Operations",
+    "location": "US, WA, BELLEVUE",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist II, Workforce Intelligence powered by Scientific Engineering",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA, US",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, GenAI Evaluation Media Science",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, CA, SUNNYVALE",
+    "posted_date": "1 month",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist, AWS Professional Services",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "1 month",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "NLP Data Scientist III",
+    "company": "SelectQuote",
+    "industry": "Insurance marketplace",
+    "location": "REMOTE, UNITED STATES",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist, Decisions - Mapping",
+    "company": "Lyft",
+    "industry": "Ridesharing",
+    "location": "San Francisco, CA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Science Manager",
+    "company": "Wiliot",
+    "industry": "IoT",
+    "location": "New York, NY",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist/Solution Consultant - US",
+    "company": "Dassault Syst\u00e8mes",
+    "industry": "Software",
+    "location": "Waltham, MA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Development Engineer, Measurement, Ad Tech, and Data Science (MADS) (Advertising)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist II, Infra DCPD - PACE (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "WA, Seattle",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist II, Customer Delivery Excellence Science (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "Retail",
+    "location": "Bellevue, WA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Wipro",
+    "industry": "IT Consulting",
+    "location": "New York City, US",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, AGI Foundations - Speech & Audio",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Boston, MA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "FanDuel",
+    "industry": "Fantasy sports betting (part of Flutter)",
+    "location": "JERSEY CITY",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist, Demand Forecasting, SCOT (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "Fulfillment & Operations",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist, Algorithms",
+    "company": "Middesk",
+    "industry": "Business verification APIs",
+    "location": "SAN FRANCISCO / NEW YORK",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, AGI Info - Web Information Systems",
+    "company": "Amazon",
+    "industry": "Information Technology",
+    "location": "Sunnyvale, CA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AI Research Engineer - LLM",
+    "company": "Upstage",
+    "industry": "AI tech enabler",
+    "location": "REMOTE JOB",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "ML Research Engineer, ML Systems",
+    "company": "Scale",
+    "industry": "Data annotation",
+    "location": "SAN FRANCISCO, CA; SEATTLE, WA; NEW YORK, NY",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Scientist",
+    "company": "Arena",
+    "industry": "AI/Technology",
+    "location": "NEW YORK",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist/Engineer, Agents",
+    "company": "Scale",
+    "industry": "AI/Technology",
+    "location": "SAN FRANCISCO, CA; SEATTLE, WA; NEW YORK, NY",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Research Engineer, Large Behavior Models",
+    "company": "Toyota Research Institute",
+    "industry": "Automotive",
+    "location": "LOS ALTOS, CA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Economist II - Machine Learning Science, Search & Recommendations",
+    "company": "Wayfair",
+    "industry": "Furniture e-commerce",
+    "location": "SEATTLE, WA",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist / Research Engineer, LLM Evaluation",
+    "company": "Scale",
+    "industry": "AI training data annotation",
+    "location": "SAN FRANCISCO, CA; SEATTLE, WA; NEW YORK, NY",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Talent Recruiter - AI & ML Research",
+    "company": "Symbolic",
+    "industry": "AI models",
+    "location": "San Francisco, US",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Researcher",
+    "company": "Optiver",
+    "industry": "Proprietary trading firm",
+    "location": "New York, New York",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist / Research Engineer, Science of Data",
+    "company": "Scale",
+    "industry": "AI training data annotation",
+    "location": "SAN FRANCISCO, CA; SEATTLE, WA; NEW YORK, NY",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist",
+    "company": "Atomistic AI",
+    "industry": "Consumer",
+    "location": "SEATTLE",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Engineer",
+    "company": "Optiver",
+    "industry": "Proprietary trading firm",
+    "location": "New York, New York",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist / Research Engineer, Post-Training",
+    "company": "Scale",
+    "industry": "AI training data annotation",
+    "location": "SAN FRANCISCO, CA; SEATTLE, WA; NEW YORK, NY",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied AI Engineer & Researcher",
+    "company": "Speechify",
+    "industry": "AI",
+    "location": "REMOTE",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist (Computer Vision)",
+    "company": "Lendbuzz",
+    "industry": "Finance",
+    "location": "Boston, MA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer, Insights, Data Engineering, Econometrics, Analytics & Science (IDEAS) (AWS)",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "Seattle, WA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Science Manager, Amazon Prime, Amazon Prime AI/ML Team",
+    "company": "Amazon",
+    "industry": "E-commerce, Cloud Computing",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "1 month ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied AI Research Engineer",
+    "company": "Netic",
+    "industry": "AI",
+    "location": "SALES FRANCISCO",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Research Scientist - Voice AI Foundations",
+    "company": "Deepgram",
+    "industry": "Speech transcription",
+    "location": "REMOTE / ANN ARBOR, MI / SAN FRANCISCO, CA",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "ML Postdoc Researcher - LLMs & Generative AI",
+    "company": "Truveta",
+    "industry": "Health data and analytics",
+    "location": "SEATTLE, WA",
+    "posted_date": "1 month",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Engineer & Researcher, Inference",
+    "company": "Speechify",
+    "industry": "Text-to-speech",
+    "location": "Remote",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist/Engineer, Audio",
+    "company": "Scale",
+    "industry": "Technology",
+    "location": "San Francisco, CA; Seattle, WA; New York, NY",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Scientist / Engineer, Reasoning",
+    "company": "Scale",
+    "industry": "AI training data annotation",
+    "location": "SAN FRANCISCO, CA; SEATTLE, WA; NEW YORK, NY",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "ML Postdoc Researcher - Deep Learning, LLMs & Generative AI",
+    "company": "Truveta",
+    "industry": "Health data and analytics",
+    "location": "SEATTLE, WA",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Research Engineer - Novel AI Platforms for Multiscale Alignment",
+    "company": "Future of Life Institute",
+    "industry": "Non-profit focused on tech risk",
+    "location": "Anywhere (Open Globally) (Remote)",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Junior Quant Researcher - ML Alpha Research",
+    "company": "Squarepoint Capital",
+    "industry": "Quant trading firm",
+    "location": "LONDON, NEW YORK, SINGAPORE, BOSTON, PARIS, ZUG, GENEVA, HONG KONG, BANGALORE",
+    "posted_date": "1 month ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer II, AWS Sustainability Technology",
+    "company": "Amazon",
+    "industry": "AWS Sustainability Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "2 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Engineer - Data Engineering",
+    "company": "Plaid",
+    "industry": "Financial integration API",
+    "location": "SAN FRANCISCO",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Operations Engineer (NJ Colocations)",
+    "company": "Susquehanna",
+    "industry": "Quantitative trading firm",
+    "location": "Secaucus (North Jersey Area), USA",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Data Infrastructure",
+    "company": "EvolutionaryScale",
+    "industry": "Generative AI for protein design",
+    "location": "NEW YORK, NY // SAN FRANCISCO, CA, UNITED STATES",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer - USDS",
+    "company": "Viktok",
+    "industry": "Social Network",
+    "location": "WASHINGTON D.C.",
+    "posted_date": "2 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer, P2 Science, Data, and Insights",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Center Architect",
+    "company": "Oracle",
+    "industry": "Software and cloud computing",
+    "location": "UNITED STATES (REMOTE)",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data DevOps Engineer",
+    "company": "Versa Networks",
+    "industry": "Networking",
+    "location": "REMOTE, UNITED STATES",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Quantitative Software Engineer: Derivatives Relative Value",
+    "company": "Two Sigma",
+    "industry": "Tech-driven hedge fund",
+    "location": "New York, NY",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer 1761",
+    "company": "MeridianLink",
+    "industry": "Loan origination software",
+    "location": "United States (Remote)",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Infrastructure Operations Data Engineer, Infra AGE (AWS)",
+    "company": "Amazon",
+    "industry": "N/A",
+    "location": "US, VA, Herndon",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Figma",
+    "industry": "Information Technology",
+    "location": "San Francisco, CA, New York, NY, United States",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Science Software Engineer",
+    "company": "DataRobot",
+    "industry": "AI tools",
+    "location": "BOSTON, MASSACHUSETTS, US",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer (TS/SCI)",
+    "company": "Maxar",
+    "industry": "Satellite Technologies",
+    "location": "HERNDON, VA",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Rivian",
+    "industry": "Electric vehicles",
+    "location": "Palo Alto, California",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Quantitative Software Engineer - Venn",
+    "company": "Two Sigma",
+    "industry": "Tech-driven hedge fund",
+    "location": "New York, NY",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Language Engineer, Artificial General Intelligence",
+    "company": "Amazon",
+    "industry": "Data Services",
+    "location": "US, MA, BOSTON",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Database Reliability Engineer III (Remote)",
+    "company": "CrowdStrike",
+    "industry": "Cybersecurity",
+    "location": "USA - REMOTE, CA",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Site Reliability Engineer (Data)",
+    "company": "Zapier",
+    "industry": "Technology",
+    "location": "Aniverse / Remote",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Architect, Core Data Plane",
+    "company": "Oracle",
+    "industry": "Tech",
+    "location": "UNITED STATES (REMOTE)",
+    "posted_date": "2 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Development Engineer, HWEng Analytics & Data Engineering Team (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Delivery Consultant - Machine Learning Engineer, AWS Professional Services",
+    "company": "Amazon",
+    "industry": "AWS Professional Services",
+    "location": "US, MA, BOSTON",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AI Software Engineer, Search",
+    "company": "Nexus Labs",
+    "industry": "Technology",
+    "location": "San Francisco",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Software Engineer, Inference",
+    "company": "Nexus Labs",
+    "industry": "Zero-knowledge cryptography",
+    "location": "San Francisco",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Solutions Engineer (AI Enterprise SaaS / Insurtech)",
+    "company": "EvolutionIQ",
+    "industry": "Insurance claim processing",
+    "location": "New York, NY",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Zoom",
+    "industry": "Video conferencing",
+    "location": "SAN JOSE (CA)",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Delivery Consultant - Machine Learning Engineer, AWS Professional Services",
+    "company": "Amazon",
+    "industry": "Professional Services",
+    "location": "Seattle, WA",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AI Software Engineer, Systems",
+    "company": "Nexus Labs",
+    "industry": "Zero-knowledge cryptography",
+    "location": "SAN FRANCISCO",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Developer - AI Infra Compute",
+    "company": "Oracle",
+    "industry": "Technology",
+    "location": "UNITED STATES (REMOTE) / AUSTIN, TX, UNITED STATES",
+    "posted_date": "2 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Engineer, Credit Modeling",
+    "company": "PayPal",
+    "industry": "QRYcode",
+    "location": "Remote",
+    "posted_date": "2 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AI Software Engineer, Full Stack",
+    "company": "Nexus Labs",
+    "industry": "Zero-knowledge cryptography",
+    "location": "San Francisco",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer, Reinforcement Learning",
+    "company": "Skill AI",
+    "industry": "Artificial Intelligence",
+    "location": "Pittsburgh, San Francisco",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer/Applied Research Scientist",
+    "company": "Adobe",
+    "industry": "Software",
+    "location": "San Jose",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Developer - AI Infra Compute",
+    "company": "Oracle",
+    "industry": "Information Technology",
+    "location": "United States (Remote) / Austin, TX, United States",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Manager, Software Engineering - AI Product",
+    "company": "Figma",
+    "industry": "Tech",
+    "location": "SAN FRANCISCO, CA; NEW YORK, NY; UNITED STATES",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer - Perception Attributes",
+    "company": "Zoox",
+    "industry": "Autonomous vehicles",
+    "location": "FOSTER CITY, CA",
+    "posted_date": "2 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Founding Engineer - AI",
+    "company": "Gather",
+    "industry": "Technology",
+    "location": "REMOTE",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Amazon Advertising",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, CA, SAN DIEGO",
+    "posted_date": "2 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Fraud Data Scientist",
+    "company": "ID.me",
+    "industry": "Identity Verification",
+    "location": "McLean, VA, US; Mountain View, CA, US",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Artificial General Intelligence",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, BELLEVUE",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Extend",
+    "industry": "E-commerce",
+    "location": "REMOTE, US",
+    "posted_date": "2 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Amazon Customer Service",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "2 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist 5",
+    "company": "Oracle",
+    "industry": "IT",
+    "location": "United States (Remote)",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Amazon Devices",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Risk Data Scientist",
+    "company": "Sardine",
+    "industry": "FinTech",
+    "location": "US / Canada - Remote",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Modeling and Optimization, Modeling and Optimization (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "Bellevue, WA, US",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Sponsored Products, Off-Search monetization (Advertising)",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist III, AWS Central Economics and Science",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, AWS Agentic AI",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "New York, NY",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist - Data and Machine Learning, WWPS ProServe (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Arlington, VA",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist, Employee Experience and Relations",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "PayPal",
+    "industry": "Finance",
+    "location": "SAN JOSE, CALIFORNIA, UNITED STATES OF AMERICA",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist II, Amazon Devices-Demand Planning",
+    "company": "Amazon",
+    "industry": "Retail",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "2 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist II, Amazon (Advertising)",
+    "company": "Amazon",
+    "industry": "Advertising",
+    "location": "Amazon, WA, SEATTLE",
+    "posted_date": "2 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, AWS Healthcare AI",
+    "company": "Amazon",
+    "industry": "E-commerce, Cloud Computing",
+    "location": "Santa Clara",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Traffic Engineering - EdgeLink",
+    "company": "Amazon",
+    "industry": "E-commerce, Cloud Computing",
+    "location": "Sunnyvale",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist II, Amazon Selling Partner Trust & Store Integrity",
+    "company": "Amazon",
+    "industry": "Science",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "2 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Science Software Engineer",
+    "company": "DataRobot",
+    "industry": "AI systems",
+    "location": "BOSTON, MASSACHUSETTS, US",
+    "posted_date": "2 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist (L5) - Customer Service",
+    "company": "Netflix",
+    "industry": "USA - REMOTE",
+    "location": "REMOTE",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist (L5) - Customer Service Experimentation",
+    "company": "Netflix",
+    "industry": "Entertainment",
+    "location": "USA - REMOTE",
+    "posted_date": "2 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist II, AFT AI, Amazon Fulfillment Technologies (AFT) (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, WA, BELLEVUE",
+    "posted_date": "2 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Customer Data Scientist",
+    "company": "Statsig",
+    "industry": "Software Testing",
+    "location": "Bellevue, WA",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Scientist, Data Science",
+    "company": "Altos Labs",
+    "industry": "Cellular rejuvenation and anti-aging",
+    "location": "SAN FRANCISCO BAY AREA, CA; SAN DIEGO, CA",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Sales AI (Advertising)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "NY, New York",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Promise (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Bellevue, WA",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Manager, Growth Data Science & Analytics",
+    "company": "CookUnity",
+    "industry": "Chef marketplace",
+    "location": "NEW YORK, NEW YORK, UNITED STATES",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Customer Engagement Technology",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "2 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist, Employee Relations",
+    "company": "Amazon",
+    "industry": "Retail, E-commerce",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Amazon Robotics",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Santa Clara, CA",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Manager, Data Science 3",
+    "company": "PayPal",
+    "industry": "Financial Services",
+    "location": "San Jose, California, United States of America",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist III, Selection Monitoring",
+    "company": "Amazon",
+    "industry": "N/A",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist 1",
+    "company": "PayPal",
+    "industry": "Online payments",
+    "location": "SAN JOSE, CALIFORNIA, UNITED STATES OF AMERICA",
+    "posted_date": "2 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Product Manager, Data Science & Machine Learning",
+    "company": "CarGurus",
+    "industry": "Car marketplace",
+    "location": "BOSTON, MASSACHUSETTS, UNITED STATES",
+    "posted_date": "2 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Scientist (Sequential Decision Making)",
+    "company": "Phaidra",
+    "industry": "Industrial software",
+    "location": "Remote",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Researcher",
+    "company": "Ideogram",
+    "industry": "AI image generation",
+    "location": "Toronto / NYC",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "R&D Machine Learning Scientist",
+    "company": "Eight Sleep",
+    "industry": "Smart mattress",
+    "location": "REMOTE - US",
+    "posted_date": "2 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "ML Scientist",
+    "company": "Wispr Flow",
+    "industry": "Technology",
+    "location": "SAN FRANCISCO",
+    "posted_date": "2 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Deep learning Researcher | Trading Team",
+    "company": "Jump Trading",
+    "industry": "Finance",
+    "location": "Chicago, New York, London",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, AWS Agentic AI",
+    "company": "Amazon",
+    "industry": "AWS",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Engineer/Applied Research Scientist",
+    "company": "Adobe",
+    "industry": "Creative software",
+    "location": "SAN JOSE",
+    "posted_date": "2 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Scientist",
+    "company": "Jump Trading",
+    "industry": "High frequency trading firm",
+    "location": "New York, London",
+    "posted_date": "2 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, AWS Healthcare AI",
+    "company": "Amazon",
+    "industry": "N/A",
+    "location": "US, CA, SANTA CLARA",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist II, AFT AI, Amazon Fulfillment Technologies (AFT) (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "Fulfillment & Operations",
+    "location": "Bellevue, WA, US",
+    "posted_date": "2 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AI Researcher",
+    "company": "Rogo",
+    "industry": "Generative AI for financial services",
+    "location": "SAN FRANCISCO",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Sales AI (Advertising)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "ML and HPC Network Programming Researcher",
+    "company": "AMD",
+    "industry": "Semiconductor design",
+    "location": "Bellevue, Washington",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Engineer II, AWS Just-Walk-Out Science Team",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Engineer II, AWS Just-Walk-Out Science Team",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "2 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AI researcher",
+    "company": "Graphite",
+    "industry": "Graph review tools",
+    "location": "NEW YORK CITY, NEW YORK",
+    "posted_date": "2 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Research Engineer, Applied AI",
+    "company": "Rewind",
+    "industry": "Personal device activity tracking",
+    "location": "REMOTE",
+    "posted_date": "2 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer II, AWS Analytics Engineering",
+    "company": "Amazon",
+    "industry": "AWS",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Quantitative Software Engineer: Fast Engineering",
+    "company": "Two Sigma",
+    "industry": "Finance",
+    "location": "New York, NY",
+    "posted_date": "3 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer IV - Data Analytics",
+    "company": "Lead",
+    "industry": "Banking infrastructure",
+    "location": "SUNNYVALE/SAN FRANCISCO/NEW YORK",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Batch Data",
+    "company": "Tecton",
+    "industry": "Machine learning feature store",
+    "location": "REMOTE (US) / NEW YORK / SEATTLE / SAN FRANCISCO",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data engineer",
+    "company": "Writer",
+    "industry": "Technology",
+    "location": "SAN FRANCISCO, CA (HYBRID) / REMOTE",
+    "posted_date": "3 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Quantitative Software Engineer: Portfolio Research Acceleration",
+    "company": "Two Sigma",
+    "industry": "Tech-driven hedge fund",
+    "location": "UNITED STATES - NY NEW YORK",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician, DCC Communities (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, VA, STERLING",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Architect - Health Data Intelligence",
+    "company": "Oracle",
+    "industry": "Software",
+    "location": "United States (Remote)",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician , DCC Communities (AWS)",
+    "company": "Amazon",
+    "industry": "Information Technology",
+    "location": "Herndon, VA, US",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Quantitative Software Engineer: Quantitative Components",
+    "company": "Two Sigma",
+    "industry": "Tech-driven hedge fund",
+    "location": "United States - NY - New York Engineering Experienced",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician, DCC",
+    "company": "Amazon",
+    "industry": "AWS",
+    "location": "US, VA, ASHBURN",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Quantitative Software Engineer: Generative AI",
+    "company": "Two Sigma",
+    "industry": "Tech-driven hedge fund",
+    "location": "United States - NY New York",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Development Engineer II, Business Data Technologies (BDT)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA, US",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data engineer",
+    "company": "Writer",
+    "industry": "Automated writing style guides",
+    "location": "New York City, NY (Hybrid) / Remote",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer - Simulation Graphics and AI/ML",
+    "company": "Zoox",
+    "industry": "Autonomous vehicles (part of Amazon)",
+    "location": "SEATTLE, WA",
+    "posted_date": "3 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Healthcare operations automation",
+    "industry": "Healthcare",
+    "location": "NEW YORK CITY OFFICE",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Augmented Engineer (AI)",
+    "company": "Eudia",
+    "industry": "AI for legal teams",
+    "location": "PALO ALTO, CALIFORNIA",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "LLM Training Resilience Engineer",
+    "company": "Together",
+    "industry": "Open-source LLMs",
+    "location": "SAN FRANCISCO",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "LLM Training Frameworks and Optimization Engineer",
+    "company": "Together",
+    "industry": "Open-source LLMs",
+    "location": "SAN FRANCISCO",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Application Engineer",
+    "company": "Ema",
+    "industry": "Technology",
+    "location": "San Francisco Bay Area",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Solutions Engineer",
+    "company": "Foundry",
+    "industry": "AI Cloud Computing",
+    "location": "Palo Alto / San Francisco Bay Area",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "LLM Training Dataset and Checkpoint Optimization Engineer",
+    "company": "Together",
+    "industry": "Open-source LLMs",
+    "location": "San Francisco",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "NLP Engineer",
+    "company": "Trunk Tools",
+    "industry": "Construction workflow tools",
+    "location": "NEW YORK CITY HQ / SAN FRANCISCO - BAY AREA / REMOTE - US TIME ZONE / AUSTIN",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Graphics & ML Integration Engineer",
+    "company": "AMD",
+    "industry": "Semiconductor design",
+    "location": "Bellevue, Washington",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "LLM Inference Frameworks and Optimization Engineer",
+    "company": "Together",
+    "industry": "Open-source LLMs",
+    "location": "SAN FRANCISCO, SINGAPORE, AMSTERDAM",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer (Platform)",
+    "company": "Artera",
+    "industry": "Personalized cancer treatment (formerly Well Health)",
+    "location": "REMOTE-US (REMOTE)",
+    "posted_date": "3 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Opensource Developer Evangelist",
+    "company": "AMD",
+    "industry": "Semiconductor design",
+    "location": "San Jose, California",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Operations (MLOps) Engineer",
+    "company": "Together",
+    "industry": "Tech",
+    "location": "SAN FRANCISCO",
+    "posted_date": "3 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Havenly",
+    "industry": "Tech",
+    "location": "DENVER OR REMOTE",
+    "posted_date": "3 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Platform Engineer - Generative AI",
+    "company": "R&D lab informatics",
+    "industry": "Tech",
+    "location": "NEW YORK, SAN FRANCISCO, MUNICH OR LONDON",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Distinguished Engineer - AI",
+    "company": "UiPath",
+    "industry": "Robotic process automation",
+    "location": "BELLEVUE",
+    "posted_date": "3 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "R&D Data Scientist",
+    "company": "Eight Sleep",
+    "industry": "Smart mattress",
+    "location": "BOSTON AREA",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist II, Search Relevance",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Palo Alto, CA, USA",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist - II, Everyday Essentials Science",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA, USA",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist II, Search Relevance",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, CA, PALO ALTO",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist, Metrics Team",
+    "company": "WeRide",
+    "industry": "Autonomous driving",
+    "location": "San Jose, CA",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Q Developer Code Agent Science (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist I, Amazon Music Catalog",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "San Francisco, CA, US",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, AGI Information",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist II",
+    "company": "Attentive",
+    "industry": "Text messaging for brands",
+    "location": "SAN FRANCISCO, CA",
+    "posted_date": "3 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist II, SCOT Long-Term Planning (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "Fulfillment & Operations",
+    "location": "US, NY, New York",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, NGDE Science (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA, US",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Alexa Smart Home",
+    "company": "Amazon",
+    "industry": "Digital Media",
+    "location": "US, CA, SUNNYVALE",
+    "posted_date": "3 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Brand Shopping Experiences (Advertising)",
+    "company": "Amazon",
+    "industry": "Advertising",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "3 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist (GenAI), OTS DataTech AI (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "Fulfillment & Operations",
+    "location": "US, WA, BELLEVUE",
+    "posted_date": "3 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Auditor - IT and Data Science",
+    "company": "Snowflake",
+    "industry": "Cloud data warehouse",
+    "location": "US-CA-DUBLIN / US-CA-MENLO PARK",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Artificial General Intelligence",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, BELLEVUE",
+    "posted_date": "3 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist SCOT Labs, Forecasting and Labs (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, WA, Bellevue",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Two Sigma",
+    "industry": "Tech-driven hedge fund",
+    "location": "New York, NY",
+    "posted_date": "3 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Advertising Brand Intelligence",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "New York, NY",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist (GenAI), OTS DataTech AI (Fulfillment & Operations Scientist)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, Bellevue",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AI Researcher, Core ML",
+    "company": "Together",
+    "industry": "Open-source LLMs",
+    "location": "SAN FRANCISCO",
+    "posted_date": "3 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Edge AI & ML, Amazon Tablet Devices",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA",
+    "posted_date": "3 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Analytics for defense and intel agencies",
+    "company": "Unknown",
+    "industry": "Defense and Intel",
+    "location": "New York, NY",
+    "posted_date": "4 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Goldbelly",
+    "industry": "Food Marketplace",
+    "location": "New York, NY or Remote",
+    "posted_date": "4 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Paradigm",
+    "industry": "Institutional crypto trading",
+    "location": "SINGAPORE OR NEW YORK - ON SITE",
+    "posted_date": "4 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Development Manager, Measurement, Ad Tech, and Data Science (MADS) (Advertising)",
+    "company": "Amazon",
+    "industry": "Advertising",
+    "location": "New York, NY",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Site Reliability Engineer (SRE) - Database Engineering (US Federal)",
+    "company": "Workday",
+    "industry": "HR cloud software",
+    "location": "McLean, VA",
+    "posted_date": "4 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Controls Engineer, Deployment, Data Center Capacity Delivery (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Herndon, VA",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Engineer, Data Infrastructure",
+    "company": "DatologyAI",
+    "industry": "AI training data management",
+    "location": "Redwood City",
+    "posted_date": "4 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Research Engineer, Learnable Planner (Data Engineering)",
+    "company": "Weabi",
+    "industry": "Tech",
+    "location": "TORONTO, CAN, SAN FRANCISCO, CA, DALLAS, TX & REMOTE - US & CANADA",
+    "posted_date": "4 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Solutions Architect, Conversational AI & Prompt Engineering",
+    "company": "Qventus",
+    "industry": "Healthcare",
+    "location": "REMOTE, UNITED STATES",
+    "posted_date": "4 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI engineer",
+    "company": "Writer",
+    "industry": "AI",
+    "location": "SAN FRANCISCO, CA (HYBRID) / REMOTE",
+    "posted_date": "4 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning - Compiler Engineer II, AWS Neuron, Annapurna Labs",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, CA, CUPERTINO",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators",
+    "company": "Amazon",
+    "industry": "N/A",
+    "location": "US, WA, Seattle",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Algorithm Engineer (Deep Learning/C++)(E)",
+    "company": "KLA",
+    "industry": "Semiconductors",
+    "location": "Milpitas, CA",
+    "posted_date": "4 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer- AI/ML, AWS Neuron Distributed Training",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, CA, CUPERTINO",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Adobe",
+    "industry": "Creative software",
+    "location": "San Jose",
+    "posted_date": "4 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, BRP Payment Risk ML",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "Seattle, WA, US",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Pricing and Promotion Optimization",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "Seattle, WA, US",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, CBA",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Development Manager, Measurement, Ad Tech, and Data Science (MADS) (Advertising)",
+    "company": "Amazon",
+    "industry": "Advertising",
+    "location": "US, NY, NEW YORK",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, SPX AI Lab",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, Seattle",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Sponsored Products (Advertising)",
+    "company": "Amazon",
+    "industry": "Advertising",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, BRP Payment Risk ML",
+    "company": "Amazon",
+    "industry": "Machine Learning",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, ML_AI (AWS)",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, CA, SANTA CLARA",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, BRP Payment Risk ML",
+    "company": "Amazon",
+    "industry": "Payment Risk",
+    "location": "US, CA, San Diego",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Artificial General Intelligence",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, MA, BOSTON",
+    "posted_date": "4 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Optimization, Amazon Transportation",
+    "company": "Amazon",
+    "industry": "Transportation",
+    "location": "Bellevue, WA",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, NeuroSymbolic (AWS)",
+    "company": "Amazon",
+    "industry": "Retail, E-commerce",
+    "location": "US, MA, BOSTON",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, PXT Legends",
+    "company": "Amazon",
+    "industry": "Retail",
+    "location": "US, VA, ARLINGTON",
+    "posted_date": "4 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Research Data Scientist",
+    "company": "PhysicsX",
+    "industry": "AI for physics simulations",
+    "location": "NEW YORK",
+    "posted_date": "4 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, BRP Payment Risk ML",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "Washington, Seattle",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Research Scientist, Machine Learning for Human-Machine Interactions",
+    "company": "Toyota Research Institute",
+    "industry": "Automotive, Technology",
+    "location": "Cambridge, MA",
+    "posted_date": "4 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied AI Researcher",
+    "company": "Distyl",
+    "industry": "Workflow automation",
+    "location": "NEW YORK",
+    "posted_date": "4 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, SPX AI Lab",
+    "company": "Amazon",
+    "industry": "E-commerce, Cloud Computing",
+    "location": "US, WA, Seattle",
+    "posted_date": "4 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, BRP Payment Risk ML",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Seattle, WA",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, BRP Payment Risk ML",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "San Diego, CA",
+    "posted_date": "4 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Veeva Systems",
+    "industry": "Cloud software for the life sciences industry",
+    "location": "PENNSYLVANIA - PHILADELPHIA (REMOTE)",
+    "posted_date": "5 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Data Visualization",
+    "company": "Gecko Robotics",
+    "industry": "Industrial inspections",
+    "location": "BOSTON",
+    "posted_date": "5 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "VLSI Design Engineer for Server / Data Center Products",
+    "company": "Qualcomm",
+    "industry": "Wireless technology",
+    "location": "SAN DIEGO, CALIFORNIA, UNITED STATES OF AMERICA",
+    "posted_date": "5 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Compiler / Firmware Engineer",
+    "company": "Qualcomm",
+    "industry": "Wireless technology",
+    "location": "Austin, Texas, United States of America",
+    "posted_date": "5 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer II, Annapurna Labs ML Acceleration System Software (AWS)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "Austin, TX",
+    "posted_date": "5 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Machine Learning Engineer",
+    "company": "Nooks",
+    "industry": "AI sales enablement",
+    "location": "San Francisco / Remote",
+    "posted_date": "5 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, Seattle",
+    "posted_date": "5 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Clay",
+    "industry": "Marketing",
+    "location": "New York, NY",
+    "posted_date": "5 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Amazon Robotics",
+    "company": "Amazon",
+    "industry": "E-commerce, Robotics",
+    "location": "CA,azon",
+    "posted_date": "5 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Scientist 5 - Nashville, TN",
+    "company": "Oracle",
+    "industry": "Software",
+    "location": "US, TN, NASHVILLE",
+    "posted_date": "5 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Amazon Business Marketing Science",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, SEATTLE",
+    "posted_date": "5 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Pricing and Promotion Optimization",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "Seattle, WA, US",
+    "posted_date": "5 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Applied AI",
+    "company": "Amazon",
+    "industry": "Retail",
+    "location": "US, WA, BELLEVUE",
+    "posted_date": "5 months",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Research Engineer - Machine Learning for Video Compression",
+    "company": "Qualcomm",
+    "industry": "Wireless technology",
+    "location": "SAN DIEGO, CALIFORNIA, UNITED STATES OF AMERICA",
+    "posted_date": "5 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research and Development Engineer",
+    "company": "Faraday",
+    "industry": "Electric vehicles",
+    "location": "Gardena, California, United States",
+    "posted_date": "5 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied AI Researcher",
+    "company": "Distyl",
+    "industry": "Workflow automation",
+    "location": "SAN FRANCISCO / NEW YORK",
+    "posted_date": "5 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Research Scientist, AI (Biology Focus)",
+    "company": "EvolutionaryScale",
+    "industry": "Technology",
+    "location": "New York, NY / San Francisco, CA, United States",
+    "posted_date": "5 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Research Engineer",
+    "company": "Etched",
+    "industry": "AI chips",
+    "location": "CUPERTINO, CA",
+    "posted_date": "5 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Applied AI",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "WA, Bellevue",
+    "posted_date": "5 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Scientist (L5) - Payments DSE",
+    "company": "Netflix",
+    "industry": "Entertainment",
+    "location": "USA - REMOTE",
+    "posted_date": "5 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Research Scientist, AI (Modeling Focus)",
+    "company": "Evolutionary Scale",
+    "industry": "Generative AI for protein design",
+    "location": "NEW YORK, NY // SAN FRANCISCO, CA, UNITED STATES",
+    "posted_date": "5 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Mildeennium",
+    "industry": "Technology",
+    "location": "New York, New York, United States of America",
+    "posted_date": "6 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Adobe",
+    "industry": "Creative software",
+    "location": "SAN JOSE",
+    "posted_date": "6 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist",
+    "company": "Atticus",
+    "industry": "Legal services for individuals",
+    "location": "REMOTE",
+    "posted_date": "6 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Economist / Applied Scientist, New Products",
+    "company": "Haus",
+    "industry": "Marketing ROI measurement",
+    "location": "REMOTE (REMOTE)",
+    "posted_date": "6 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist, Amazon Fulfillment Technologies (AFT)",
+    "company": "Amazon",
+    "industry": "AI (Fulfillment & Operations)",
+    "location": "US, WA, BELLEVUE",
+    "posted_date": "6 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Applied Scientist, Amazon Fulfillment Technologies (AFT) - AI (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "Technology",
+    "location": "US, WA, BELLEVUE",
+    "posted_date": "6 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Software Engineer, AI Infrastructure (Training + Inference)",
+    "company": "WaveForms",
+    "industry": "Technology",
+    "location": "San Francisco, CA, US",
+    "posted_date": "7 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Robotics ML Engineer",
+    "company": "Rerun",
+    "industry": "DevTools for physical AI",
+    "location": "REMOTE",
+    "posted_date": "7 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Experienced Data Scientist",
+    "company": "Plaid",
+    "industry": "Financial Services",
+    "location": "San Francisco, CA, US",
+    "posted_date": "7 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist - Media Optimization",
+    "company": "Haus",
+    "industry": "Marketing ROI measurement",
+    "location": "REMOTE",
+    "posted_date": "7 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist - Forecasting & Risk Modeling, Amazon Transportation (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "Transportation",
+    "location": "Santa Clara, CA, USA",
+    "posted_date": "7 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Research Engineer, AI",
+    "company": "EvolutionaryScale",
+    "industry": "Generative AI for protein design",
+    "location": "NEW YORK, NY // SAN FRANCISCO, CA, UNITED STATES",
+    "posted_date": "8 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer - Contact Data",
+    "company": "Assembled",
+    "industry": "Team management",
+    "location": "New York City, NY",
+    "posted_date": "9 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist II, Artificial General Intelligence",
+    "company": "Amazon",
+    "industry": "Information Technology",
+    "location": "Boston, MA",
+    "posted_date": "9 months ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Database Engineer",
+    "company": "Espresso AI",
+    "industry": "Technology",
+    "location": "New York Office",
+    "posted_date": "10 months ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Deep Learning",
+    "company": "Pony.ai",
+    "industry": "Autonomous driving technology",
+    "location": "FREMONT, CALIFORNIA, UNITED STATES",
+    "posted_date": "10 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "ML Engineer",
+    "company": "Espresso AI",
+    "industry": "Data warehouse optimization",
+    "location": "NEW YORK OFFICE",
+    "posted_date": "10 months",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Distributed Systems Engineer (L4) - Data Platform",
+    "company": "Netflix",
+    "industry": "Entertainment",
+    "location": "Remote",
+    "posted_date": "1 year ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist, Transportation Network Planning (Fulfillment & Operations)",
+    "company": "Amazon",
+    "industry": "Fulfillment & Operations",
+    "location": "US, WA, BELLEVUE",
+    "posted_date": "1 year ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AI Research Resident - Open Source AGI",
+    "company": "Prime Intellect",
+    "industry": "Technology",
+    "location": "Remote",
+    "posted_date": "1 year ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Research Engineer- Computer Vision",
+    "company": "3D Video",
+    "industry": "AI",
+    "location": "PALO ALTO, CALIFORNIA",
+    "posted_date": "1 year ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Expert Software Engineer/Database (Remote)",
+    "company": "Allscripts",
+    "industry": "Healthcare software",
+    "location": "Remote",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Quantitative Developer - CIO Office",
+    "company": "Point72",
+    "industry": "Investment management",
+    "location": "REMOTE",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Data Platform",
+    "company": "Akasa",
+    "industry": "Healthcare revenue automation software",
+    "location": "South San Francisco / NYC",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Quantitative Software Engineer",
+    "company": "Two Sigma",
+    "industry": "Tech-driven hedge fund",
+    "location": "UNITED STATES - NY NEW YORK",
+    "posted_date": "EXPERIENCED",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Founding Data Engineer",
+    "company": "Actively AI",
+    "industry": "Technology",
+    "location": "New York City",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Physical Security Field Engineer, , Data Center Engineering",
+    "company": "Amazon",
+    "industry": "AWS",
+    "location": "Not specified",
+    "posted_date": "Not specified",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "AV Safety Data & Benchmarking Engineer",
+    "company": "Zoox",
+    "industry": "Autonomous vehicles (part of Amazon)",
+    "location": "FOSTER CITY, CA",
+    "posted_date": "",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Center Engineer",
+    "company": "Jane Street",
+    "industry": "Proprietary trading firm",
+    "location": "Not specified",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Quantitative Research Engineer \u2013 University Graduate (US)",
+    "company": "Citadel",
+    "industry": "Tech-enabled hedge fund",
+    "location": "NEW YORK",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "ADC Engineer II, Non-Relational Database Services (AWS)",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "Amazon, WA, Seattle",
+    "posted_date": "Not specified",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Turionone spacecraft",
+    "industry": "Aerospace",
+    "location": "Irvine, California",
+    "posted_date": "26d ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Development Engineer II, Measurement, Ad Tech, and Data Science (MADS) (Advertising)",
+    "company": "Amazon",
+    "industry": "E-commerce",
+    "location": "US, NY, New York",
+    "posted_date": "19d ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Microsoft Azure Architect Data/AI Cloud",
+    "company": "IBM",
+    "industry": "Tech services, software, and systems",
+    "location": "Not specified",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Dev Engineer II, Foundational People Data Services (FPDS), DCX Real-Time",
+    "company": "Amazon",
+    "industry": "N/A",
+    "location": "US, WA, Seattle",
+    "posted_date": "N/A",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Tech (AWS)",
+    "company": "Amazon",
+    "industry": "N/A",
+    "location": "US, VA, ASHBURN",
+    "posted_date": "N/A",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "Arch",
+    "industry": "N/A",
+    "location": "N/A",
+    "posted_date": "N/A",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer- Data",
+    "company": "Statsig",
+    "industry": "A/B testing for websites",
+    "location": "Not specified",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Engineer, DaaS",
+    "company": "PayPay",
+    "industry": "N/A",
+    "location": "N/A",
+    "posted_date": "N/A",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Our first Data Engineer",
+    "company": "Elicit",
+    "industry": "Research",
+    "location": "Oakland, CA (or Remote within US Timezones)",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Molecular Data",
+    "company": "Terray Therapeutics",
+    "industry": "Terray-enable drug discovery",
+    "location": "Not specified",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Fellow, Performance Modeling Architect- Data Center GPU",
+    "company": "AMD",
+    "industry": "Semiconductor design",
+    "location": "Austin, Texas",
+    "posted_date": "38d ago",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+    "company": "Canonical",
+    "industry": "Software",
+    "location": "Remote",
+    "posted_date": "N/A",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Research Engineer - Computer Vision ML",
+    "company": "Saisome",
+    "industry": "Computer Vision ML",
+    "location": "Not specified",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "Evolutionary Scale",
+    "industry": "Artificial Intelligence",
+    "location": "",
+    "posted_date": "",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer, Education",
+    "company": "Chan Zuckerberg Initiative",
+    "industry": "Nonprofit",
+    "location": "Redwood City, CA (Open to Flex)",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer L5, Offline Inference, Machine Learning Platform",
+    "company": "Netflix",
+    "industry": "Machine Learning Platform",
+    "location": "REMOTE",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Development Engineer - ML, Amazon Demand Side Platform (Advertising)",
+    "company": "AMAZON",
+    "industry": "Advertising",
+    "location": "REMOTE",
+    "posted_date": "Not specified",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Machine Learning Engineer - Bay Area",
+    "company": "Emma",
+    "industry": "Employee Productivity",
+    "location": "SAN FRANCISCO BAY AREA",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer - Perception Offline Driving Intelligence",
+    "company": "Zoox",
+    "industry": "Technology",
+    "location": "Not specified",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Engineer II - Maintenance",
+    "company": "Flock Safety",
+    "industry": "Technology",
+    "location": "Remote - USA",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "MLOps Engineer - ML Platform",
+    "company": "Qualcomm",
+    "industry": "Wireless Technology",
+    "location": "San Diego, California, United States of America",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied AI Engineer, Enterprise GenAI",
+    "company": "Scale AI",
+    "industry": "Artificial Intelligence",
+    "location": "San Jose, California",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Deep Learning Manipulation Engineer",
+    "company": "Skild AI",
+    "industry": "Tech",
+    "location": "PITTSBURGH, SAN FRANCISCO",
+    "posted_date": "N/A",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Infrastructure Engineer",
+    "company": "HeyGen",
+    "industry": "Generative AI for video",
+    "location": "LOS ANGELES, AI SAN FRANCISCO, PALO ALTO, TORONTO",
+    "posted_date": "N/A",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Delivery Data Science Technical Product Manager, Robotics Operations Data Solutions",
+    "company": "Amazon",
+    "industry": "E-commerce and cloud computing",
+    "location": "US, WA, Seattle",
+    "posted_date": "N/A",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Data Science Bootcamp Instructor-Part-time",
+    "company": "Skillsoft",
+    "industry": "Education",
+    "location": "US - REMOTE",
+    "posted_date": "11d ago",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Applied Scientist - II",
+    "company": "Amazon, Everyday Essentials Science",
+    "industry": "E-commerce",
+    "location": "Amazon, WA, SEATTLE",
+    "posted_date": "N/A",
+    "tier": "Tier 2"
+  },
+  {
+    "job_title": "Research Data Scientist",
+    "company": "iSpot.tv",
+    "industry": "TV ad measurement",
+    "location": "",
+    "posted_date": "",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Scientist - Product",
+    "company": "Perplexity AI",
+    "industry": "Technology",
+    "location": "United States",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Data Science Manager, Datapro & Clinical Products",
+    "company": "Garner Health",
+    "industry": "Healthcare",
+    "location": "NEW YORK CITY, NEW YORK",
+    "posted_date": "N/A",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Data Scientist, Women's Health",
+    "company": "Oura",
+    "industry": "Smart devices to track sleep and physical activities",
+    "location": "Smart Francisco, CALIFORNIA, UNITED STATES (REMOTE)",
+    "posted_date": "Not Specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Fine-tuning)",
+    "company": "Cthero",
+    "industry": "Cryptocurrency",
+    "location": "Remote",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "industry": "Proprietary firm",
+    "location": "Not specified",
+    "posted_date": "Not specified",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "AI Research Engineer (Pre-training)",
+    "company": "Tether",
+    "industry": "Crypto stablecoin",
+    "location": "REMOTE JOB",
+    "posted_date": "N/A",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Software Engineer, Machine Learning - Engineering Systems and AI Research",
+    "company": "Snowflake",
+    "industry": "Cloud Data Warehouse",
+    "location": "US-WA-BELLEVUE / US-CA-MENLO PARK",
+    "posted_date": "18-4 days",
+    "tier": "Tier 3"
+  },
+  {
+    "job_title": "Machine Learning Scientist (L5) - Content Management and Distribution",
+    "company": "Netflix",
+    "industry": "",
+    "location": "USA - REMOTE",
+    "posted_date": "",
+    "tier": "Tier 3"
+  }
+]
