@@ -10,3 +10,5 @@ To use, just run browser-use-apply-batch.py
 
 This repo relies on imamousenotacat's fork of browser-use called re-browser-use: 
 https://github.com/imamousenotacat/re-browser-use
+
+Disclaimer: This is proof-of-concept code intended for security researchers and system designers to understand and mitigate this type of activity. We are not condoning or encouraging use of this code for spamming or inundating applicant tracking systems or any other misuse of this code.
